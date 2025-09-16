@@ -317,7 +317,7 @@ All data supporting the conclusions are included in this repository. Raw data ex
 
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 - **Documentation**: See `docs/` folder for detailed guides
-- **Email**: dmitrii.smirnov@example.com
+- **Email**: dmitrii.smirnov@tum.de, mitya.smirnov@gmail.com
 
 ### Collaboration Opportunities
 
