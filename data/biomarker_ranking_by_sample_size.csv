@@ -1,0 +1,7 @@
+biomarker_name,Total_Participants,N_Studies,Mean_Quality_Score,Mean_AUC,Mean_Sensitivity,Mean_Specificity
+FGF-21,1935.0,6,8.42,0.85,69.5,89.32
+GDF-15,1630.0,6,8.5,0.88,76.9,88.5
+Lactate,935.0,2,8.0,0.63,30.3,95.2
+Creatine,0.0,1,8.5,,,
+Creatine kinase,0.0,1,7.0,0.58,25.0,90.4
+ccf-mtDNA,0.0,1,8.5,,,

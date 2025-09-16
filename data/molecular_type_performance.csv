@@ -1,0 +1,6 @@
+Molecular_Type,Sensitivity_Mean_count,Sensitivity_Mean_mean,Sensitivity_Mean_std,Specificity_Mean_count,Specificity_Mean_mean,Specificity_Mean_std,AUC_Mean_count,AUC_Mean_mean,AUC_Mean_std,Biomarker_count
+dna,4,46.85,31.63,3,55.52,47.47,1,0.65,,5
+lipid,0,,,0,,,0,,,1
+metabolite,7,66.47,1.42,12,87.58,7.88,1,0.65,,27
+other,47,47.92,26.32,61,72.29,32.45,1,0.93,,125
+protein,9,52.4,29.28,7,56.63,38.07,4,0.79,0.15,29

@@ -1,0 +1,35 @@
+biomarker_name,molecular_class,biomaterial,analytical_method,sensitivity,specificity,disease_specificity,age_group,source_file,clinical_application,sensitivity_mean,specificity_mean,diagnostic_utility
+GDF-15,Protein (cytokine),Serum/Plasma,ELISA,83 (65-92),92 (84-96),"General MD, best for mtDNA translation defects",Adult > Pediatric,systematic_review_biomarkers.csv,,80.0,90.66666666666667,85.33333333333334
+FGF-21,Protein (growth factor),Serum/Plasma,ELISA,71 (53-84),88 (82-93),"General MD, muscle involvement",Adult = Pediatric,systematic_review_biomarkers.csv,,69.33333333333333,87.66666666666667,78.5
+CSF Neurofilament Light,Protein (structural),CSF,Simoa/ELISA,90 (ME patients),High (>90),"Neurological MD (ME, Leigh, MELAS)",Pediatric (main studies),systematic_review_biomarkers.csv,,90.0,90.0,90.0
+Serum Neurofilament Light,Protein (structural),Serum/Plasma,Simoa,"25 (all MD), higher for CNS",94 (86-102),CNS involvement in MD,Adult = Pediatric,systematic_review_biomarkers.csv,,25.0,94.0,59.5
+Cell-free circulating mtDNA,Nucleic acid (mtDNA),Plasma,qPCR,44 (MELAS),94 (86-102),"MELAS, mtDNA disorders",Adult (main studies),systematic_review_biomarkers.csv,,44.0,94.0,69.0
+CSF Lactate,Small molecule,CSF,Spectrophotometry,88-90 (ME patients),88,Neurological MD,Pediatric (main studies),systematic_review_biomarkers.csv,,89.0,88.0,88.5
+Plasma Lactate,Small molecule,Plasma,Spectrophotometry,34-62,83-100,General screening,Adult = Pediatric,systematic_review_biomarkers.csv,,48.0,91.5,69.75
+CSF Alanine,Amino acid,CSF,Ion exchange chromatography,75-85,76-89,General MD,Adult = Pediatric,systematic_review_biomarkers.csv,,80.0,82.5,81.25
+Plasma Alanine,Amino acid,Plasma,Ion exchange chromatography,50-67,76-89,General MD,Adult = Pediatric,systematic_review_biomarkers.csv,,58.5,82.5,70.5
+Lactate/Pyruvate Ratio,Metabolite ratio,Plasma/CSF,Spectrophotometry,31,100,ETC defects,Adult = Pediatric,systematic_review_biomarkers.csv,,31.0,100.0,65.5
+Creatine (plasma),Small molecule,Plasma,Spectrophotometry/LC-MS,27 (severe cases),76-89,Severe MD cases,Adult (main studies),systematic_review_biomarkers.csv,,27.0,82.5,54.75
+Malondialdehyde,Lipid (aldehyde),Plasma,Spectrophotometry/HPLC,Variable,Variable,Oxidative stress in MD,Adult (main studies),systematic_review_biomarkers.csv,,,,
+Glutathione (reduced),Tripeptide,Plasma/Erythrocytes,Spectrophotometry,Variable,Variable,Oxidative stress in MD,Adult (main studies),systematic_review_biomarkers.csv,,,,
+3-Methylglutaconic acid (urine),Organic acid,Urine,GC-MS,11 (MD patients),High,"Specific syndromes (Barth, ATPase defects)",Pediatric (main studies),systematic_review_biomarkers.csv,,11.0,,11.0
+Acylcarnitines,Lipid derivatives,Plasma,Tandem MS,Variable by disorder,Variable,Fatty acid oxidation defects,Pediatric screening,systematic_review_biomarkers.csv,,,,
+Thiosulfate (EE),Sulfur metabolite,Plasma/Urine,HPLC/GC-MS,100 (EE),95-100 (EE),Ethylmalonic encephalopathy,Pediatric (infantile EE),systematic_review_biomarkers.csv,,100.0,97.5,98.75
+Cardiolipin ratios (Barth),Phospholipid,Platelets/Muscle,LC-MS/MS,100 (Barth),100 (Barth),Barth syndrome,Pediatric/Adult,systematic_review_biomarkers.csv,,100.0,100.0,100.0
+CoQ10 (plasma),Quinone,Plasma,HPLC-UV/ED,Variable,Variable,CoQ10 deficiency,Adult > Pediatric,systematic_review_biomarkers.csv,,,,
+Ubiquinol/ubiquinone ratio,Redox ratio,Plasma,HPLC,Variable,Variable,"CoQ10 deficiency, oxidative stress",Adult > Pediatric,systematic_review_biomarkers.csv,,,,
+GDF-15,Protein (cytokine),Serum/Plasma,ELISA,83 (65-92),92 (84-96),,,mitochondrial_biomarkers_performance.csv,Diagnosis/Screening,80.0,90.66666666666667,85.33333333333334
+FGF-21,Protein (growth factor),Serum/Plasma,ELISA,71 (53-84),88 (82-93),,,mitochondrial_biomarkers_performance.csv,Diagnosis/Screening,69.33333333333333,87.66666666666667,78.5
+Creatine,Small molecule (guanidino compound),Plasma/Serum,Spectrophotometry/LC-MS,27 (severe cases),76-89,,,mitochondrial_biomarkers_performance.csv,Diagnosis (severe cases),27.0,82.5,54.75
+Cell-free circulating mtDNA,Nucleic acid (mitochondrial DNA),Plasma,qPCR,44 (MELAS),94 (86-102),,,mitochondrial_biomarkers_performance.csv,MELAS monitoring,44.0,94.0,69.0
+CSF Lactate,Small molecule (organic acid),CSF,Spectrophotometry,90 (ME patients),88,,,mitochondrial_biomarkers_performance.csv,Neurological diagnosis,90.0,88.0,89.0
+Plasma Lactate,Small molecule (organic acid),Plasma,Spectrophotometry,34-62,83-100,,,mitochondrial_biomarkers_performance.csv,General screening,48.0,91.5,69.75
+CSF Alanine,Amino acid,CSF,Ion exchange chromatography,75-85,76-89,,,mitochondrial_biomarkers_performance.csv,Diagnosis/Monitoring,80.0,82.5,81.25
+Plasma Alanine,Amino acid,Plasma,Ion exchange chromatography,50-67,76-89,,,mitochondrial_biomarkers_performance.csv,Diagnosis/Monitoring,58.5,82.5,70.5
+Lactate/Pyruvate Ratio,Ratio (organic acids),Plasma/CSF,Spectrophotometry,31,100,,,mitochondrial_biomarkers_performance.csv,Pyruvate metabolism,31.0,100.0,65.5
+CSF Neurofilament Light,Protein (structural),CSF,Simoa/ELISA,90 (ME patients),High,,,mitochondrial_biomarkers_performance.csv,Prognosis/Monitoring,90.0,,90.0
+Serum Neurofilament Light,Protein (structural),Serum/Plasma,Simoa,25 (all MD),94 (86-102),,,mitochondrial_biomarkers_performance.csv,CNS involvement,25.0,94.0,59.5
+Malondialdehyde,Lipid (aldehyde),Plasma,Spectrophotometry/HPLC,Variable,Variable,,,mitochondrial_biomarkers_performance.csv,Oxidative stress,,,
+Glutathione (reduced),Tripeptide (antioxidant),Plasma/Erythrocytes,Spectrophotometry,Variable,Variable,,,mitochondrial_biomarkers_performance.csv,Oxidative stress,,,
+3-Methylglutaconic acid (urine),Small molecule (organic acid),Urine,GC-MS,11 (MD patients),High,,,mitochondrial_biomarkers_performance.csv,Specific syndromes,11.0,,11.0
+Acylcarnitines,Acyl-CoA derivatives,Plasma,Tandem MS (MS/MS),Variable,Variable,,,mitochondrial_biomarkers_performance.csv,Fatty acid disorders,,,

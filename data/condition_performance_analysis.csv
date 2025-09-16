@@ -1,0 +1,21 @@
+Condition,Sensitivity_Mean_count,Sensitivity_Mean_mean,Sensitivity_Mean_std,Specificity_Mean_count,Specificity_Mean_mean,Specificity_Mean_std,AUC_Mean_count,AUC_Mean_mean,AUC_Mean_std,Biomarker_count
+Alpers disease,0,,,0,,,0,,,8
+Barth Syndrome,0,,,0,,,0,,,9
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,11,0.77,0.0,11,0.9,0.0,0,,,11
+CoQ10 deficiency mitochondrial disease,0,,,0,,,0,,,2
+Friedreich ataxia mitochondrial disease,0,,,0,,,0,,,23
+Kearns-Sayre syndrome (KSS),0,,,0,,,0,,,14
+Leber Hereditary Optic Neuropathy (LHON),0,,,20,94.74,0.0,0,,,20
+Leigh syndrome,30,66.68,0.0,30,78.92,0.0,0,,,30
+Luft disease (nonthyroidal hypermetabolism),0,,,0,,,0,,,1
+MELAS (Mitochondrial Encephalomyopathy Lactic Acidosis Stroke-like episodes),0,,,0,,,0,,,1
+Maternally Inherited Diabetes and Deafness (MIDD),0,,,0,,,0,,,23
+Mitochondrial Aminoacyl-tRNA Synthetase Deficiency (mtARS deficiency),1,100.0,,1,100.0,,1,0.93,,1
+Mitochondrial DNA Depletion Syndrome (MDS),18,51.62,0.0,18,86.74,0.0,0,,,18
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),0,,,0,,,0,,,8
+Myoclonic Epilepsy with Ragged Red Fibers (MERRF),4,68.33,0.0,0,,,4,0.65,0.0,4
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),0,,,0,,,0,,,7
+"POLG-related mitochondrial disease, specifically POLG-related epilepsy.",0,,,0,,,0,,,3
+Pearson syndrome,1,63.57,,1,87.95,,0,,,1
+Primary mitochondrial myopathy,0,,,0,,,0,,,1
+Thymidine Kinase 2 Deficiency (TK2d),2,0.77,0.0,2,0.9,0.0,2,0.92,0.0,2

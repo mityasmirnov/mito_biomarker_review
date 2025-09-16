@@ -1,0 +1,55 @@
+Future Research Directions for Biofluid Biomarkers in Mitochondrial Diseases
+Despite significant advances, several critical gaps and opportunities for future research remain in the field of biofluid biomarkers for mitochondrial diseases (MDs). Below are the main areas where further investigation is needed, as highlighted by recent systematic reviews and expert consensus:
+
+Large, Multicenter, and Diverse Cohort Studies
+
+Validation in Larger and More Diverse Populations: Most studies to date have moderate sample sizes, are often single-center, and may lack ethnic, age, and disease-spectrum diversity. Large, multicenter, prospective studies are needed to robustly validate biomarker sensitivity, specificity, and clinical utility across primary and secondary MDs, pediatric and adult populations, and a range of syndromes (e.g., MELAS, Leigh, MERRF, PEO, etc.).
+Standardization of Cohorts and Controls: Future research should use standardized diagnostic criteria, include well-characterized controls (including disease controls with overlapping symptoms), and report detailed cohort characteristics.
+
+Longitudinal and Interventional Studies
+
+Progression and Therapy Monitoring: Most biomarker studies are cross-sectional. Longitudinal studies are needed to determine how biomarkers change with disease progression, acute events, and in response to therapies (e.g., arginine, coenzyme Q10, nucleoside therapy, exercise interventions, etc.).
+Predictive Value: Research should assess whether biomarkers can predict disease onset in at-risk individuals (e.g., asymptomatic mutation carriers), or forecast acute decompensation.
+
+Integration of Multi-Omics and Biomarker Panels
+
+Beyond Single Biomarkers: No single biomarker is sufficiently sensitive or specific for all MDs. Future research should focus on multi-marker panels (proteins, metabolites, lipids) and multi-omics integration (proteomics, metabolomics, lipidomics, transcriptomics) to improve diagnostic and prognostic accuracy.
+Machine Learning and Advanced Analytics: Application of artificial intelligence and machine learning to large, multi-omics datasets could help identify novel biomarker combinations and disease signatures.
+
+Standardization of Analytical Methods and Cutoffs
+
+Assay Harmonization: There is a need for standardized, validated, and widely available assays for key biomarkers (e.g., FGF21, GDF15, lipidomics, metabolomics), including agreement on pre-analytical variables (sample type, timing, fasting status, storage, etc.).
+Reference Ranges and Cutoffs: Establishment of age-, sex-, and context-specific reference ranges and diagnostic cutoffs is required for clinical implementation.
+
+Pathophysiological Mechanisms and Specificity
+
+Mechanistic Studies: More research is needed to understand the molecular and cellular mechanisms underlying biomarker changes (e.g., why FGF21 and GDF15 are elevated in MDs, and what drives their levels in secondary mitochondrial dysfunction or other diseases).
+Specificity for Mitochondrial Disease: Studies should clarify how specific candidate biomarkers are for MDs versus other conditions (e.g., FGF21 and GDF15 are also elevated in diabetes, cancer, renal, and liver diseases), and whether combinations of markers can improve specificity.
+
+Emerging and Understudied Biomarkers
+
+Lipidomics and Metabolomics: Promising early results for lipidomic and metabolomic panels (e.g., lysoPCs, PI 38:6, sorbitol, N-lactoyl-amino acids, β-hydroxy acylcarnitines) require replication and validation in larger, independent cohorts.
+Biofluids Beyond Blood: More research is needed on urine, saliva, and CSF biomarkers, which may offer less invasive or more disease-specific options.
+Novel Proteins and Noncoding RNAs: Proteomic and transcriptomic studies may reveal additional candidate biomarkers.
+
+Clinical Implementation and Health Economics
+
+Cost-effectiveness and Accessibility: Studies should evaluate the cost, turnaround time, and practicality of implementing biomarker testing in routine clinical practice, especially in resource-limited settings.
+Impact on Patient Outcomes: Ultimately, research should assess whether biomarker-guided diagnosis and monitoring improve patient outcomes, quality of life, and healthcare utilization.
+
+Special Populations and Disease Subtypes
+
+Pediatric vs. Adult: More pediatric-specific studies are needed, as biomarker performance may differ by age.
+Primary vs. Secondary MD: Studies should stratify and compare biomarker performance in primary genetic MDs versus secondary mitochondrial dysfunction (e.g., in muscular dystrophies, neurodegenerative diseases, critical illness).
+Syndrome-specific Research: Further research on biomarker profiles for individual syndromes (e.g., MELAS, Leigh, MERRF, PEO, KSS) is warranted.
+
+Summary Table: Key Research Needs
+
+AreaResearch NeedCohort studiesLarge, multicenter, diverse, standardized cohorts; include both primary and secondary MDsLongitudinal/interventionalTrack biomarkers over time, with progression, and in response to therapyMulti-omicsDevelop and validate biomarker panels; integrate proteomics, metabolomics, lipidomicsStandardizationHarmonize assays, pre-analytics, reference ranges, and cutoffsMechanisms/specificityElucidate pathophysiology; improve specificity for MDsNovel/emerging markersValidate lipidomic, metabolomic, and proteomic markers; explore new biofluidsClinical implementationAssess cost, accessibility, and real-world impactSpecial populationsPediatric, adult, syndrome-specific, primary vs. secondary MD
+
+References:
+
+
+
+In summary:
+Future research should focus on large, standardized, and longitudinal studies; multi-omics biomarker panels; assay harmonization; mechanistic understanding; validation of emerging markers; and real-world clinical implementation—across the full spectrum of mitochondrial disease presentations and patient populations.

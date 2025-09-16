@@ -1,0 +1,21 @@
+Biomarker,Condition,Molecular_Type,Sensitivity_Mean,Specificity_Mean,AUC_Mean,Composite_Score
+Fibroblast Growth Factor 21 (FGF21) - Hormone,Mitochondrial Aminoacyl-tRNA Synthetase Deficiency (mtARS deficiency),other,100.0,100.0,0.933,97.76666666666667
+FGF-21,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+pyruvate,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+GDF-15),Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+mitochondrial DNA deletions).,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+mitochondrial DNA mutations,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+1-methylhistidine (Metabolite),Leber Hereditary Optic Neuropathy (LHON),metabolite,,94.74,,94.74
+lactate,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+Taurine (Metabolite - amino acid),Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+Retinal Nerve Fiber Layer (RNFL) visibility scores (Imaging Biomarker),Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+Never fiber bundle defects (Imaging Biomarker),Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+Functional markers measured in blood cells (e.g.,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+respiratory chain complex activities,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+mitochondrial DNA copy number),Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+Biochemical markers of serum/plasma (e.g.,Leber Hereditary Optic Neuropathy (LHON),other,,94.74,,94.74
+Nicotinamide (Vitamin B3) (Metabolite),Leber Hereditary Optic Neuropathy (LHON),metabolite,,94.74,,94.74
+Total plasma homocysteine (Metabolite),Leber Hereditary Optic Neuropathy (LHON),metabolite,,94.74,,94.74
+Holotranscobalamin (Metabolite),Leber Hereditary Optic Neuropathy (LHON),metabolite,,94.74,,94.74
+Vitamin B12 (Metabolite),Leber Hereditary Optic Neuropathy (LHON),metabolite,,94.74,,94.74
+Methylmalonic acid (Metabolite),Leber Hereditary Optic Neuropathy (LHON),metabolite,,94.74,,94.74

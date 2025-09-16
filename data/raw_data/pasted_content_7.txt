@@ -1,0 +1,146 @@
+Certainly! I will provide a comprehensive research report on biofluid biomarkers for mitochondrial diseases. The main contents of the report are as follows:
+
+- **Introduction to mitochondrial diseases and biomarkers**: Overview of mitochondrial diseases and the role of biomarkers.
+- **Metabolic biomarkers**: Discussion of lactate, pyruvate, and acylcarnitines as biomarkers.
+- **Protein biomarkers**: Analysis of GDF-15, FGF-21, and neurofilament light chain.
+- **Other biomarkers**: Examination of ccf-mtDNA and creatine.
+- **Comparative analysis**: Performance across syndromes and clinical applications.
+- **Analytical methods**: Techniques for biomarker measurement.
+- **Limitations and future perspectives**: Current challenges and future directions.
+
+-------
+
+# Comprehensive Analysis of Biofluid Biomarkers for Mitochondrial Diseases
+
+## 1 Introduction to Mitochondrial Diseases and Biomarkers
+
+Mitochondrial diseases represent a **heterogeneous group of disorders** caused by defective oxidative phosphorylation (OXPHOS) resulting from mutations in either mitochondrial DNA (mtDNA) or nuclear DNA (nDNA). These conditions affect approximately 1 in 5,000 individuals, making them among the most common inherited metabolic disorders . The **clinical heterogeneity** of mitochondrial diseases is remarkable, with manifestations potentially affecting any organ system, though tissues with high energy demands (nervous system, muscles, heart) are most frequently involved . This variability, combined with the dual genetic control of mitochondrial proteins, creates significant diagnostic challenges that have motivated the search for reliable biomarkers.
+
+Biofluid biomarkers have emerged as **crucial tools** for diagnosing, monitoring, and assessing prognosis in mitochondrial diseases. Unlike genetic testing which identifies mutations but may not reflect disease activity or severity, biomarkers can provide dynamic information about pathological processes, making them valuable for clinical management and therapeutic development. The ideal biomarker should be measurable in easily accessible biofluids (blood, urine, saliva), demonstrate high sensitivity and specificity for mitochondrial dysfunction, correlate with disease severity, and respond to therapeutic interventions . This review comprehensively examines the current landscape of biofluid biomarkers for mitochondrial diseases, excluding genetic and MRI biomarkers as requested, with particular attention to their performance characteristics across different clinical scenarios and mitochondrial syndromes.
+
+## 2 Metabolic Biomarkers
+
+### 2.1 Lactate and Pyruvate
+
+Lactate represents the most **historically established biomarker** for mitochondrial disorders, reflecting the shift to anaerobic glycolysis that occurs when oxidative phosphorylation is impaired. Several studies have confirmed elevated lactate levels across various mitochondrial diseases, though with considerable variability in sensitivity and specificity. In a mixed mitochondrial disease cohort, Magner et al. reported blood lactate levels of 3.87 ± 0.48 mmol/l in patients compared to 1.70 ± 0.13 mmol/l in controls (p < 0.001), while CSF lactate was 4.43 ± 0.55 mmol/l versus 1.64 ± 0.07 mmol/l (p < 0.001) . Yamada et al. found similar elevations with blood lactate of 41.6 ± 25.4 mg/dl in patients versus 14.6 ± 6.6 mg/dl in controls (p < 0.01), and CSF lactate of 44.5 ± 19.4 mg/dl versus 12.8 ± 2.7 mg/dl (p < 0.01) .
+
+The **diagnostic performance** of lactate varies considerably across studies and mitochondrial syndromes. Suomalainen et al. reported a sensitivity of 52.6% and specificity of 92.8% at a cutoff of 2.4 mmol/l in a mixed cohort . However, lactate elevation is not universal across all mitochondrial diseases, being most consistently elevated in conditions such as MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes) and Leigh syndrome. In MELAS patients, lactate levels show substantial variability, with values ranging from 1.4 to 19.0 mmol/l compared to a reference range of 0.7–2.0 mmol/l . The **lactate-to-pyruvate ratio** may provide additional diagnostic value, as it more specifically reflects the redox state in mitochondria, with an elevated ratio (>20:1) suggesting impaired oxidation-reduction potential in the mitochondrial respiratory chain.
+
+*Table 1: Performance Characteristics of Lactate as a Biomarker in Mitochondrial Diseases*
+
+| **Condition** | **Sample Type** | **Cohort Size (Patients/Controls)** | **Sensitivity** | **Specificity** | **Cut-off Value** | **AUC** | **Citation** |
+|---------------|-----------------|-------------------------------------|----------------|----------------|-------------------|---------|-------------|
+| Mixed MD      | Blood           | 35/NA                               | 52.6%          | 92.8%          | 2.4 mmol/L        | 0.90    |  |
+| Mixed MD      | Blood           | 17/146                              | 88.2%          | 84.4%          | 18.95 mg/dL       | 0.926   |  |
+| Mixed MD      | CSF             | 17/49                               | 94.1%          | 100%           | 19.9 mg/dL        | 0.994   |  |
+| MELAS         | Blood           | 100/NA                              | Variable       | Variable       | >2.0 mmol/L       | NA      |  |
+
+### 2.2 Acylcarnitines and Other Metabolites
+
+The **metabolomic landscape** of mitochondrial diseases extends beyond lactate to include various other metabolites that reflect disruptions in energy metabolism. Recent advances in metabolomics technologies, particularly liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS), have enabled the identification of novel metabolite biomarkers. Sharma et al. used targeted and untargeted plasma metabolomics in a cohort of 102 patients carrying the m.3243A>G mutation and identified **N-lactoyl-amino acids**, **Beta-Hydroxy Fatty Acids (BOHFAs)**, and **Beta-Hydroxy Acylcarnitines (BOHCAs)** as novel biomarker families associated with mitochondrial dysfunction . These metabolites were correlated with disease severity and NADH-reductive stress, providing insights into underlying pathophysiological mechanisms.
+
+Acylcarnitine profiles represent particularly **promising biomarkers** as they reflect mitochondrial fatty acid oxidation capacity. Distinct acylcarnitine patterns have been associated with specific mitochondrial disorders, though their diagnostic performance characteristics require further validation in larger cohorts. The emerging field of metabolomics continues to identify new metabolite signatures associated with mitochondrial diseases, offering potential for improved diagnostic specificity and pathophysiological insights.
+
+## 3 Protein Biomarkers
+
+### 3.1 Growth Differentiation Factor 15 (GDF-15)
+
+GDF-15 has emerged as one of the most **promising protein biomarkers** for mitochondrial diseases. This stress-responsive cytokine, belonging to the transforming growth factor-beta (TGF-β) superfamily, shows significant elevation in various mitochondrial disorders, particularly those with prominent myopathic features. In a study of 123 mitochondrial patients, GDF-15 was significantly elevated compared to controls (2802.43 ± 2628.04 pg/ml) and showed particularly high levels in patients with single mtDNA deletions (5202.59 ± 4281.3 pg/ml) and mtDNA point mutations (3027.27 ± 1278.0 pg/ml) . The **diagnostic performance** of GDF-15 appears excellent, with Yatsuga et al. reporting an AUC of 0.882 for mitochondrial diseases in general .
+
+Recent research has expanded the potential applications of GDF-15 measurement to include saliva as well as blood. A 2025 study demonstrated that saliva GDF-15 is **quantifiable and dynamic**, showing significant elevations in patients with m.3243A>G mutations or single large-scale mtDNA deletions compared to healthy controls (p < 0.0001) . Salivary GDF-15 levels correlated with neurological symptoms, fatigue, and functional capacity, and interestingly, increased further in response to experimental mental stress. This finding suggests that stress-evoked changes might enhance rather than obscure disease-related associations, potentially offering new monitoring approaches.
+
+*Table 2: Performance Characteristics of GDF-15 as a Biomarker in Mitochondrial Diseases*
+
+| **Condition** | **Sample Type** | **Cohort Size (Patients/Controls)** | **Sensitivity** | **Specificity** | **AUC** | **Citation** |
+|---------------|-----------------|-------------------------------------|----------------|----------------|---------|-------------|
+| Mixed MD      | Serum           | 123/35                              | High           | High           | NA      |  |
+| Mixed MD      | Serum           | 48/NA                               | High           | High           | 0.882   |  |
+| m.3243A>G     | Saliva          | 25/NA                               | High           | High           | NA      |  |
+| Single deletion| Saliva          | 15/NA                               | High           | High           | NA      |  |
+
+### 3.2 Fibroblast Growth Factor 21 (FGF-21)
+
+FGF-21 is a hormone-like cytokine primarily secreted by the liver in response to mitochondrial stress, particularly in conditions affecting skeletal muscle. Similar to GDF-15, FGF-21 shows **significant elevation** in mitochondrial diseases with myopathic features. In a cohort of 123 patients, FGF-21 levels were elevated overall (679.77 ± 630.07 pg/ml), with highest levels observed in patients with single mtDNA deletions (1172.53 ± 927.8 pg/ml) compared to those with mtDNA point mutations (735.10 ± 430.2 pg/ml) or nuclear mutations (401.1 ± 393.5 pg/ml) . The strong correlation between FGF-21 and GDF-15 (r = 0.671, p < 0.001) suggests they may reflect related aspects of mitochondrial pathology .
+
+The **tissue specificity** of FGF-21 for muscle involvement makes it particularly valuable for identifying mitochondrial myopathies among other presentations. In clinical practice, FGF-21 and GDF-15 are often measured together, as their combination may provide complementary information about different aspects of mitochondrial disease. While both are elevated in myopathic presentations, GDF-15 appears to have broader sensitivity across different mitochondrial syndromes and may be more responsive to non-muscular involvement.
+
+### 3.3 Neurofilament Light Chain (NF-L)
+
+Neurofilament light chain (NF-L) has emerged as a **valuable biomarker** for neuronal injury in mitochondrial diseases, particularly those with central nervous system involvement. In a study of 26 genetically confirmed mitochondrial patients, mean NF-L levels were 25.70 ± 23.4 pg/ml, with significantly higher levels observed in patients with mtDNA point mutations (43.89 ± 32.4 pg/ml) compared to those with single mtDNA deletions (11.70 ± 5.6 pg/ml) or nuclear mutations (21.39 ± 17.6 pg/ml) . This pattern reflects the greater propensity for CNS involvement in mtDNA point mutation disorders such as MELAS.
+
+NF-L demonstrates particularly strong **clinical correlation** with epilepsy and other manifestations of central nervous system involvement. In patients with epilepsy, NF-L levels were significantly higher (49.74 pg/ml) compared to those without epilepsy (19.7 pg/ml, p = 0.015) . This makes NF-L especially valuable for monitoring neurological progression and potentially assessing therapeutic responses in mitochondrial patients with CNS disease. The reciprocal relationship between NF-L (marking CNS injury) and FGF-21/GDF-15 (marking muscle involvement) provides clinicians with a tool for determining which tissue systems are most affected in individual patients.
+
+## 4 Other Biomarkers
+
+### 4.1 Cell-Free Circulating Mitochondrial DNA (ccf-mtDNA)
+
+Cell-free circulating mitochondrial DNA (ccf-mtDNA) has emerged as a **novel and promising biomarker** for mitochondrial diseases, particularly in acute presentations. In a study of 123 mitochondrial patients, ccf-mtDNA was significantly increased compared to controls, with particularly prominent elevation in MELAS patients . Longitudinal assessment in four MELAS patients revealed increased ccf-mtDNA levels during acute events such as stroke-like episodes or status epilepticus, as well as during progression of neurodegeneration, suggesting potential utility for monitoring disease activity.
+
+The **pathophysiological basis** for ccf-mtDNA elevation involves release of mitochondrial DNA into the circulation following cellular disruption and mitochondrial membrane permeabilization. This process activates inflammatory pathways through mechanisms such as the cGAS-STING pathway, potentially contributing to disease progression . The measurement of ccf-mtDNA typically employs droplet digital PCR (ddPCR) techniques, which allow absolute quantification with high sensitivity and reproducibility . Unlike intracellular mtDNA copy number, which may be reduced in some mitochondrial diseases, ccf-mtDNA appears to reflect active cellular damage and may therefore provide complementary information about disease activity.
+
+### 4.2 Creatine
+
+Creatine has been investigated as a potential biomarker for mitochondrial diseases, reflecting disruptions in cellular energy metabolism. In a study of 123 mitochondrial patients, creatine was significantly increased in the patient group compared to controls . However, unlike FGF-21 and GDF-15, creatine **lacked specificity** for particular clinical phenotypes and did not discriminate between different mitochondrial syndromes. This lack of syndrome-specific association limits its diagnostic utility compared to other available biomarkers.
+
+The **pathophysiological basis** for creatine elevation in mitochondrial diseases may involve several mechanisms, including impaired utilization of creatine phosphate in energy metabolism and compensatory increases in creatine synthesis. While creatine supplementation has been investigated as a therapeutic approach in mitochondrial diseases, its utility remains uncertain. As a biomarker, creatine may have value when measured in combination with other markers but appears to have limited standalone diagnostic or monitoring utility.
+
+## 5 Comparative Analysis of Biomarker Performance
+
+### 5.1 Performance Across Mitochondrial Syndromes
+
+The performance of biofluid biomarkers varies considerably across different mitochondrial syndromes, reflecting their **distinct pathophysiological features**. MELAS syndrome, typically associated with the m.3243A>G mutation, demonstrates characteristic biomarker patterns including marked elevation of ccf-mtDNA (particularly during acute stroke-like episodes), significant lactate elevation, and increased NF-L levels reflecting CNS injury . Conditions characterized primarily by myopathic features, such as those associated with single large-scale mtDNA deletions (chronic progressive external ophthalmoplegia, Kearns-Sayre syndrome), show particularly prominent elevation of FGF-21 and GDF-15 with relatively normal NF-L levels .
+
+Leber hereditary optic neuropathy (LHON) demonstrates a **distinct biomarker profile** characterized by relatively normal lactate levels and minimal elevation of muscle-specific biomarkers, consistent with its tissue-specific pathology limited primarily to the optic nerve. However, emerging evidence suggests that some LHON patients may show subtle abnormalities in other biomarkers, particularly during disease progression. The heterogeneity of biomarker patterns across mitochondrial syndromes underscores the importance of syndrome-specific interpretation and the potential value of biomarker panels rather than single biomarkers.
+
+*Table 3: Comparative Performance of Biomarkers Across Mitochondrial Syndromes*
+
+| **Syndrome** | **Lactate** | **GDF-15** | **FGF-21** | **NF-L** | **ccf-mtDNA** |
+|--------------|------------|------------|------------|----------|---------------|
+| **MELAS**    | +++        | ++         | ++         | +++      | +++           |
+| **MERRF**    | ++         | ++         | ++         | +++      | +             |
+| **CPEO/KSS** | +          | +++        | +++        | +        | +             |
+| **LHON**     | ±          | +          | +          | ±        | ±             |
+| **NARP**     | +          | +          | +          | ++       | +             |
+| **Leigh syndrome** | +++    | ++         | ++         | ++       | ++            |
+
+### 5.2 Clinical Applications and Utility
+
+Different biomarkers offer distinct advantages for specific clinical applications in mitochondrial medicine:
+
+- **Diagnosis and screening**: GDF-15 and FGF-21 show the best overall performance for diagnostic screening, with high sensitivity and specificity for mitochondrial diseases, particularly those with muscle involvement . The combination of these two biomarkers may improve diagnostic accuracy compared to either alone.
+
+- **Severity assessment and progression**: NF-L appears particularly valuable for assessing CNS involvement and progression, especially in syndromes with encephalopathic features or epilepsy . GDF-15 also correlates well with disease severity across multiple syndromes .
+
+- **Monitoring acute events**: ccf-mtDNA shows promise for monitoring acute disease exacerbations, as demonstrated by its elevation during stroke-like episodes in MELAS patients . Lactate may also be useful for monitoring acute metabolic decompensation.
+
+- **Therapeutic monitoring**: Several biomarkers show potential for monitoring therapeutic responses, though this application requires further validation. GDF-15 and FGF-21 have been used as outcome measures in clinical trials, while ccf-mtDNA might reflect treatment effects on cellular integrity.
+
+## 6 Analytical Methods for Biomarker Measurement
+
+The **accurate quantification** of mitochondrial biomarkers requires appropriate analytical methods with sufficient sensitivity and specificity. Different biomarkers necessitate distinct methodological approaches:
+
+- **Metabolites (lactate, pyruvate, creatine)**: Traditionally measured using enzymatic assays or colorimetric methods, though increasingly analyzed via mass spectrometry-based approaches for higher sensitivity and multiplexing capability .
+
+- **Protein biomarkers (GDF-15, FGF-21, NF-L)**: Typically measured using immunoassays such as ELISA or electrochemiluminescence assays. Recent advances include ultrasensitive technologies like single-molecule array (Simoa) detection, which offers 1000-fold improved sensitivity compared to conventional ELISA .
+
+- **ccf-mtDNA**: Best quantified using digital PCR techniques (ddPCR) that provide absolute quantification without need for standard curves and offer superior resistance to PCR inhibitors compared to traditional qPCR .
+
+The choice of **biological matrix** (serum, plasma, saliva, urine, CSF) significantly influences biomarker measurements. For most protein biomarkers, serum appears to be the preferred matrix, though plasma measurements are also used. Salivary measurement of GDF-15 represents an emerging alternative that offers non-invasive collection . CSF analysis provides direct insight into CNS processes but involves invasive collection procedures. Pre-analytical factors including sample processing, storage conditions, and timing of collection (particularly for circadian-influenced biomarkers) must be carefully controlled to ensure reliable measurements.
+
+## 7 Limitations and Future Perspectives
+
+Despite significant advances, several **important limitations** characterize the current landscape of mitochondrial biomarkers. Most biomarkers lack disease specificity, being elevated in various non-mitochondrial conditions; for example, GDF-15 is elevated in various inflammatory and malignant conditions, while NF-L is increased in numerous neurological disorders. Pre-analytical and analytical variability across centers represents another challenge, necessitating standardization of measurement protocols and reference ranges. The limited prospective validation of biomarkers in large, diverse cohorts represents another significant gap, with most studies employing cross-sectional designs in relatively small patient groups.
+
+Future research directions should include:
+
+- **Validation of biomarker panels** combining multiple analytes to improve diagnostic specificity and clinical correlation
+- **Standardization of pre-analytical and analytical protocols** across centers to enable broader clinical implementation
+- **Prospective longitudinal studies** to validate biomarkers for progression monitoring and therapeutic assessment
+- **Exploration of novel biomarker classes** including lipids, extracellular vesicles, and non-coding RNAs
+- **Further development of non-invasive sampling approaches** including saliva and urine measurements
+
+The evolving landscape of mitochondrial biomarkers holds promise for improved clinical management, enhanced clinical trial efficiency, and deeper insights into disease mechanisms. As these tools continue to develop, they will likely play increasingly important roles in the personalized management of mitochondrial disease patients.
+
+## 8 Conclusion
+
+Biofluid biomarkers have become indispensable tools in the management of mitochondrial diseases, offering valuable insights for diagnosis, severity assessment, and monitoring. The current biomarker landscape includes metabolic markers (lactate, pyruvate), protein biomarkers (GDF-15, FGF-21, NF-L), and novel markers such as ccf-mtDNA, each with distinct strengths and limitations. GDF-15 and FGF-21 show excellent sensitivity for mitochondrial diseases with muscle involvement, while NF-L provides valuable information about CNS injury. ccf-mtDNA emerges as a promising marker for monitoring acute events in MELAS syndrome. The optimal clinical application of these biomarkers typically involves combination rather than reliance on single markers, with choice of biomarkers guided by clinical context and specific mitochondrial syndrome. Ongoing research continues to refine existing biomarkers and identify novel markers, offering promise for improved patient management and therapeutic development.

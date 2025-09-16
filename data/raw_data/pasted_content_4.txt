@@ -1,0 +1,536 @@
+# Systematic Review of Biofluid Biomarkers for Mitochondrial Diseases: Performance Comparison and Clinical Applications
+
+## Executive Summary
+
+This systematic review comprehensively analyzes biofluid biomarkers for mitochondrial diseases across **19 distinct biomarker categories**, encompassing data from **over 50 human studies** with cohorts ranging from pediatric to adult populations. **GDF-15 emerges as the superior diagnostic biomarker with 83% sensitivity and 92% specificity**, significantly outperforming FGF-21 (71% sensitivity, 88% specificity) in the largest meta-analysis to date involving 1,563 participants. **CSF neurofilament light chain demonstrates the highest sensitivity (90%) for neurological mitochondrial diseases** in pediatric populations, while **cell-free circulating mtDNA shows specific utility for MELAS syndrome monitoring** with 44% sensitivity but 94% specificity. The evidence strongly supports a tiered diagnostic approach utilizing specific biomarkers for individual mitochondrial syndromes rather than universal screening strategies.[1][2]
+
+## Protein Biomarkers
+
+### Growth Factors and Cytokines
+
+**Growth Differentiation Factor-15 (GDF-15)**
+
+Meta-analysis of eight randomized controlled trials (n=1,563, including 845 participants assessed for GDF-15) establishes GDF-15 as the most diagnostically accurate biofluid biomarker currently available for mitochondrial diseases:[2]
+
+- **Sensitivity**: 83% (95% CI: 65-92%)
+- **Specificity**: 92% (95% CI: 84-96%)
+- **Diagnostic odds ratio**: 52 (95% CI: 13-205)
+- **Area under ROC curve**: 0.94 (95% CI: 0.92-0.96)
+- **Biomaterial**: Serum/plasma
+- **Analytical method**: ELISA (standardized protocols)
+
+Individual studies demonstrate consistent performance across populations. Yatsuga et al. (n=194; 48 mitochondrial disease patients, 146 controls) reported 97.9% sensitivity and 95.2% specificity using a 710 pg/ml cutoff. The pediatric-specific study by Li et al. (n=131; 51 primary mitochondrial disorders, 30 neuromuscular disease controls, 50 healthy controls) confirmed superior performance in children with 74.5% sensitivity and 100% specificity using a 606.369 pg/ml cutoff.[3][2]
+
+GDF-15 shows particular efficacy in mitochondrial disorders caused by mtDNA mutations affecting translation machinery, especially MELAS and MERRF syndromes. Age-stratified analysis reveals higher diagnostic accuracy in adult versus pediatric populations, with positive correlation between age and baseline GDF-15 levels.[3][1]
+
+**Fibroblast Growth Factor-21 (FGF-21)**
+
+FGF-21 serves as a complementary but inferior biomarker to GDF-15:
+
+- **Sensitivity**: 71% (95% CI: 53-84%)
+- **Specificity**: 88% (95% CI: 82-93%)  
+- **Diagnostic odds ratio**: 18 (95% CI: 6-54)
+- **Area under ROC curve**: 0.90 (95% CI: 0.87-0.92)
+- **Biomaterial**: Serum/plasma
+- **Analytical method**: ELISA
+
+Suomalainen et al.'s landmark study (n=141; 67 patients, 74 controls) established FGF-21 with 92.3% sensitivity and 91.7% specificity using a 200 pg/ml cutoff, specifically in muscle-manifesting mitochondrial respiratory chain deficiencies. However, subsequent studies reveal lower performance in broader mitochondrial disease populations.[2]
+
+FGF-21 demonstrates specific elevation in muscle-involved mitochondrial disorders and correlates with International Pediatric Mitochondrial Disease Scale (IPMDS) scores in children, suggesting utility for severity assessment rather than primary diagnosis.[3]
+
+### Neurofilament Light Chain (NF-L)
+
+**Cerebrospinal Fluid NF-L**
+
+CSF NF-L emerges as the most sensitive biomarker for neurological mitochondrial diseases in pediatric populations:
+
+- **Sensitivity**: 90% for mitochondrial encephalopathy patients
+- **Specificity**: >90%
+- **Area under ROC curve**: 0.90
+- **Biomaterial**: CSF
+- **Analytical method**: Simoa/ELISA
+
+The definitive pediatric study by Sofou et al. (n=68; 46 mitochondrial encephalopathy patients, 22 controls, age 0-18 years) demonstrated marked elevation in Leigh syndrome, MELAS, and pyruvate dehydrogenase complex deficiency. CSF NF-L levels significantly correlated with abnormal brain MRI findings and poorer survival outcomes, establishing prognostic utility beyond diagnosis.[4]
+
+**Serum NF-L**
+
+Serum NF-L provides accessible assessment of CNS involvement:
+
+- **Sensitivity**: 25% for all mitochondrial diseases, significantly higher for CNS-involved cases  
+- **Specificity**: 94% (95% CI: 86-102%)
+- **Clinical utility**: Identifying central nervous system involvement independent of underlying mitochondrial pathology
+
+Studies demonstrate highest serum NF-L levels in patients with multi-systemic involvement including CNS, particularly those with m.3243A>G mutations and epilepsy.[5][6]
+
+## Metabolite and Small Molecule Biomarkers
+
+### Lactate and Related Compounds
+
+**Cerebrospinal Fluid Lactate**
+
+CSF lactate demonstrates superior diagnostic performance compared to plasma lactate for neurological mitochondrial diseases:
+
+- **Sensitivity**: 88-90% for mitochondrial encephalopathy
+- **Specificity**: 88%
+- **Area under ROC curve**: 0.88
+- **Biomaterial**: CSF
+- **Clinical utility**: Reliable marker for mitochondrial disease with neurological involvement
+
+Magner et al.'s pediatric study (n=119; 24 mitochondrial disease patients, 95 controls) confirmed CSF lactate as a reliable diagnostic marker, maintaining significance even after recent seizures. However, the increase was described as mild to moderate, limiting its utility as a standalone diagnostic marker.[7][4]
+
+**Plasma Lactate**
+
+Despite being the most commonly used mitochondrial biomarker, plasma lactate shows limited diagnostic performance:
+
+- **Sensitivity**: 34-62%
+- **Specificity**: 83-100%
+- **Normal threshold**: <2.1 mmol/L
+- **Elevated threshold**: >3.0 mmol/L suggests mitochondrial dysfunction
+
+Multiple studies consistently demonstrate that normal plasma lactate levels do not exclude mitochondrial disease, while truly elevated levels (>3 mmol/L) suggest mitochondrial dysfunction.[8][9][10]
+
+**Lactate/Pyruvate Ratio**
+
+This ratio provides specific diagnostic information for electron transport chain disorders:
+
+- **Sensitivity**: 31%
+- **Specificity**: 100%
+- **Normal threshold**: <20
+- **Clinical utility**: Differentiating ETC disease from pyruvate metabolism disorders when lactate levels are elevated
+
+The lactate/pyruvate ratio demonstrates perfect specificity but poor sensitivity, limiting its utility as a screening tool while maintaining value for confirming electron transport chain involvement.[10][8]
+
+### Amino Acids
+
+**Alanine**
+
+Alanine elevation results from altered redox states in respiratory chain dysfunction:
+
+- **Plasma alanine sensitivity**: 50-67%
+- **CSF alanine sensitivity**: 75-85%  
+- **Specificity**: 76-89%
+- **Analytical method**: Ion exchange chromatography
+
+Studies demonstrate that alanine elevation, particularly in fasting specimens, provides valuable diagnostic information when combined with other metabolic markers. CSF alanine shows superior diagnostic performance compared to plasma levels.[9][11][10]
+
+**Creatine**
+
+Plasma creatine serves as a biomarker reflecting cellular energetic state:
+
+- **Sensitivity**: 27% (primarily severe cases)
+- **Specificity**: 76-89%
+- **Biomaterial**: Plasma/serum
+- **Analytical method**: Spectrophotometry/LC-MS
+
+Creatine elevation correlates with low intracellular phosphocreatine:creatine ratios in respiratory chain disease, but only patients with severe mitochondrial dysfunction demonstrate consistently elevated levels.[12][1]
+
+## Nucleic Acid Biomarkers
+
+### Cell-Free Circulating Mitochondrial DNA (ccf-mtDNA)
+
+This novel biomarker shows particular promise for MELAS syndrome:
+
+- **Sensitivity**: 44% for MELAS patients specifically, 25% for all mitochondrial diseases
+- **Specificity**: 94% (95% CI: 86-102%)
+- **Area under ROC curve**: 0.73 for MELAS, 0.61 for all mitochondrial diseases
+- **Biomaterial**: Plasma
+- **Analytical method**: qPCR (targeting MT-ND2 or MT-ND1 regions)
+
+Maresca et al.'s comprehensive study (n=123 mitochondrial disease patients) demonstrated that ccf-mtDNA levels significantly increase during acute events (stroke-like episodes) and correlate with disease progression specifically in MELAS patients. Longitudinal assessment in four MELAS patients showed increased levels during acute events or neurodegeneration progression.[1]
+
+## Lipid and Oxidative Stress Biomarkers
+
+### Oxidative Stress Markers
+
+**Malondialdehyde (MDA)**
+
+MDA serves as a marker of lipid peroxidation:
+
+- **Clinical findings**: Significantly elevated in progressive external ophthalmoplegia (PEO) patients with COX deficiency
+- **Biomaterial**: Plasma
+- **Analytical method**: Spectrophotometry/HPLC
+
+Pietta et al.'s study (n=17; 11 PEO patients, 6 controls) demonstrated significantly higher MDA levels, indicating increased lipid peroxidation associated with mitochondrial dysfunction.[13]
+
+**Glutathione Status**
+
+Reduced glutathione (GSH) reflects antioxidant capacity:
+
+- **Clinical findings**: Significantly decreased in mitochondrial myopathies
+- **Biomaterial**: Plasma/erythrocytes  
+- **Analytical method**: Spectrophotometry
+
+The same PEO cohort showed significantly lower plasma and erythrocyte GSH concentrations, indicating compromised antioxidant systems.[13]
+
+## Disease-Specific Biomarker Profiles
+
+### MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, Stroke-like Episodes)
+
+**Primary biomarkers**: ccf-mtDNA, serum NF-L, GDF-15, lactate
+
+The most comprehensive MELAS biomarker study involved 13 symptomatic patients carrying the A3243G mutation with 207 voxels from 41 MRS studies. Key findings:[8]
+
+- **ccf-mtDNA**: 44% sensitivity, 94% specificity, elevated during acute stroke-like episodes
+- **Serum lactate**: Correlation with MRS lactate peak during acute phases (P=0.02)
+- **Lactate/pyruvate ratio**: Strong correlation with MRS lactate peak severity (P=0.0007) in acute regions
+
+Longitudinal assessment demonstrates ccf-mtDNA as the optimal biomarker for monitoring acute episodes and disease progression.[8][1]
+
+### MERRF (Myoclonic Epilepsy with Ragged Red Fibers)
+
+**Primary biomarkers**: GDF-15, FGF-21, lactate, creatine kinase
+
+MERRF patients demonstrate consistent elevation in GDF-15 and FGF-21, with studies showing 97.9% sensitivity for GDF-15 in mixed mitochondrial disease cohorts that included MERRF patients. The syndrome presents with heteroplasmy levels ranging from 97.6±0.7% in Purkinje cells to 80.6±2.8% in anterior horn cells.[14][2]
+
+### Leigh Syndrome
+
+**Primary biomarkers**: CSF NF-L, CSF lactate, GDF-15
+
+Pediatric Leigh syndrome patients show marked CSF NF-L elevation compared to controls, with correlation to abnormal brain MRI and survival outcomes. The Sofou et al. study demonstrated CSF NF-L as particularly elevated in Leigh syndrome, MELAS, and pyruvate dehydrogenase complex deficiency.[4]
+
+### Leber Hereditary Optic Neuropathy (LHON)
+
+**Primary biomarkers**: Structural OCT measures, clinical assessment
+
+LHON biomarker research focuses on structural optical coherence tomography (OCT) rather than serum biomarkers. The Irish LHON cohort study (n=44 patients from 34 pedigrees) identified preservation of nasal retinal nerve fiber layer (RNFL) as the best predictor of on-chart final visual acuity.[15]
+
+OCT biomarker analysis in idebenone-treated patients (n=17, 34 eyes) revealed superior macular ganglion cell and inner plexiform layer (GC-IPL) thickness as strongest predictors of long-term visual outcomes:
+
+- **Superior macular GC-IPL**: P=0.044 for final visual acuity
+- **Superotemporal macular GC-IPL**: P=0.010 for final visual acuity  
+- **Inferotemporal macular GC-IPL**: P=0.015 for final visual acuity[16]
+
+## Specialized Syndrome Biomarkers
+
+### Barth Syndrome
+
+**Definitive biomarkers**: Cardiolipin ratios, 3-methylglutaconic acid, arginine
+
+Barth syndrome demonstrates 100% diagnostic accuracy through cardiolipin analysis:
+
+- **Tetralinoleoyl-cardiolipin (L4-CL)**: Complete absence in affected tissues
+- **Monolysocardiolipin (L3-MLCL)**: Pathological accumulation
+- **3-methylglutaconic acid**: Elevated in plasma and urine (100% of cases in Vernon cohort)[17][18]
+- **Plasma arginine**: Significantly decreased levels
+
+Vernon et al.'s comprehensive study (n=28 Barth syndrome patients, ages 10 months-30 years) confirmed 3-methylglutaconic acid elevation in 100% of patients, with additional findings of decreased plasma arginine levels.[18]
+
+### Ethylmalonic Encephalopathy (EE)
+
+**Definitive biomarkers**: Thiosulfate, ethylmalonic acid, H2S metabolites
+
+EE presents with pathognomonic biomarker profile:
+
+- **Thiosulfate**: 100% sensitivity, 95-100% specificity
+- **Ethylmalonic acid**: Elevated in plasma and urine
+- **H2S metabolites**: Tissue accumulation causing COX inhibition
+
+Tiranti et al.'s studies demonstrate thiosulfate as a stable, easily measurable compound directly reflecting H2S accumulation, serving as a specific biomarker for ETHE1 deficiency.[19][20][21]
+
+### TK2 Deficiency
+
+**Primary biomarkers**: GDF-15, mtDNA depletion, creatine
+
+TK2 deficiency studies demonstrate consistent GDF-15 elevation across all affected patients. The condition causes mtDNA depletion ranging from <30% of control levels in muscle and liver, with GDF-15 serving as a potential therapeutic response biomarker.[22][23]
+
+### Coenzyme Q10 Deficiency
+
+**Primary biomarkers**: Plasma CoQ10 levels, ubiquinol/ubiquinone ratio
+
+- **Normal plasma range**: 0.5-1.7 μM  
+- **Therapeutic target**: 2.8-4.6 μM depending on condition
+- **Analytical method**: HPLC-UV or HPLC-ED
+
+Langsjoen et al.'s bioavailability study (n=12 healthy volunteers) demonstrated ubiquinol supplementation achieving significantly higher plasma levels (4.3 μg/mL) compared to ubiquinone (2.5 μg/mL) after 4 weeks.[24]
+
+## Secondary Mitochondrial Diseases
+
+### Drug-Induced Mitochondrial Dysfunction
+
+**Common causative agents**: Doxorubicin, statins, tetracycline antibiotics, valproic acid
+
+Drug-induced mitochondrial toxicity presents with variable biomarker patterns:
+
+- **Doxorubicin**: Elevated oxidative stress markers, impaired AMPK pathway, decreased GLUT4 expression
+- **Statins**: Variable CoQ10 depletion, myopathy markers
+- **Antibiotics**: Mitochondrial protein synthesis inhibition, oxidative stress
+
+Recent studies demonstrate doxorubicin-induced hyperglycemia associated with mitochondrial dysfunction, with risk factors including corticosteroid co-administration.[25]
+
+### mtDNA Maintenance Defects
+
+**Genes involved**: POLG, TWNK, DNA2, MGME1, TK2, DGUOK, MPV17
+
+mtDNA maintenance defects present with distinctive biomarker patterns:
+
+- **mtDNA depletion**: <35% of normal levels in affected tissues
+- **Multiple deletions**: Accumulation of large-scale mtDNA deletions  
+- **GDF-15 elevation**: Consistent finding across maintenance defect disorders
+
+Recent identification of DNA2 mutations causing mitochondrial depletion syndrome expands the genetic spectrum, with functional studies confirming mtDNA copy number decrement and reduced ATP levels.[26]
+
+## Age-Specific Considerations
+
+### Pediatric Populations
+
+Pediatric mitochondrial disease biomarker studies reveal age-specific patterns:
+
+**Superior pediatric biomarkers**:
+1. **CSF NF-L**: 90% sensitivity in pediatric mitochondrial encephalopathy
+2. **GDF-15**: 74.5% sensitivity, 100% specificity in children  
+3. **CSF lactate**: More reliable than plasma lactate in pediatric populations
+
+The Li et al. pediatric study (median age 5.6 years) demonstrated that GDF-15 cutoff values require age-specific adjustment, with children requiring lower thresholds (606.369 pg/ml) compared to adults.[3]
+
+**Age-related findings**:
+- FGF-21 correlation with IPMDS scores in children
+- GDF-15 positive correlation with age in both patients and controls
+- Earlier symptom onset correlates with better post-diagnosis developmental outcomes[27]
+
+### Adult Populations  
+
+Adult-specific considerations include:
+
+- **Higher baseline biomarker levels**: Age-related increases in GDF-15 and oxidative stress markers
+- **Better GDF-15 performance**: Superior diagnostic accuracy compared to pediatric populations
+- **CoQ10 decline**: Age-related decreases requiring higher therapeutic targets
+
+## Analytical Methods and Technical Considerations
+
+### ELISA-Based Assays
+
+ELISA represents the gold standard for cytokine biomarkers:
+
+**Advantages**:
+- Standardized protocols across manufacturers
+- Commercial availability for GDF-15 and FGF-21
+- Quantitative results with established reference ranges
+- Reproducible results across laboratories
+
+**Limitations**:
+- Potential cross-reactivity with related proteins
+- Batch-to-batch variation requiring quality controls
+- Limited multiplexing capabilities
+
+### Mass Spectrometry Applications
+
+**LC-MS/MS and GC-MS** provide definitive identification:
+
+**Applications**: Creatine, organic acids, acylcarnitines, cardiolipin profiles
+
+**Advantages**:
+- High specificity with minimal cross-reactivity
+- Simultaneous multiple analyte detection
+- Quantitative accuracy for small molecules
+
+**Limitations**: 
+- Higher cost and specialized equipment requirements
+- Limited availability in routine clinical laboratories
+
+### Simoa Technology
+
+Single molecule array (Simoa) enables ultra-sensitive protein detection:
+
+**Primary application**: Neurofilament light chain quantitation
+
+**Advantages**:
+- 100-fold increased sensitivity versus conventional ELISA
+- Enables serum-based NF-L measurement avoiding CSF collection
+- Exceptional precision for low-abundance proteins
+
+**Clinical impact**: Transforms NF-L from research tool to clinically accessible biomarker.[5][4]
+
+## Performance Comparison Tables## Clinical Implementation Strategies
+
+### Tiered Diagnostic Approach
+
+**First-line screening** (high sensitivity):
+1. **GDF-15**: Universal mitochondrial disease screening
+2. **FGF-21**: Muscle-involved mitochondrial disorders
+3. **Plasma lactate**: Cost-effective metabolic screening
+
+**Second-line confirmation** (high specificity):
+1. **CSF NF-L**: Neurological mitochondrial diseases
+2. **ccf-mtDNA**: MELAS-specific monitoring
+3. **Disease-specific markers**: Barth (cardiolipin), EE (thiosulfate)
+
+**Monitoring and progression**:
+1. **CSF NF-L**: Neurodegeneration progression tracking
+2. **ccf-mtDNA**: MELAS acute episode monitoring  
+3. **GDF-15**: Treatment response assessment
+
+### Age-Stratified Protocols
+
+**Pediatric protocols** (0-18 years):
+- **Primary screening**: GDF-15 (cutoff 606.369 pg/ml), CSF lactate
+- **Neurological involvement**: CSF NF-L (invasive but highly sensitive)
+- **Specific syndromes**: 3-MGA (Barth), amino acid profiles (Pearson)
+
+**Adult protocols** (>18 years):
+- **Primary screening**: GDF-15 (cutoff variable by study), FGF-21
+- **CNS assessment**: Serum NF-L (non-invasive alternative)
+- **Oxidative stress**: MDA, glutathione status in selected cases
+
+## Limitations and Future Directions
+
+### Current Diagnostic Limitations
+
+**Sensitivity limitations**:
+- No single biomarker achieves 100% sensitivity
+- Many biomarkers require confirmation with complementary testing
+- Variable performance across different mitochondrial genotypes
+
+**Specificity limitations**:
+- GDF-15 and FGF-21 elevation in non-mitochondrial conditions
+- Lactate elevation in various metabolic disorders  
+- Age-related increases in several biomarkers
+
+**Technical limitations**:
+- CSF collection invasive, particularly challenging in pediatric patients
+- Specialized equipment requirements for optimal assays
+- Lack of standardized reference ranges across laboratories
+
+### Emerging Biomarkers Under Investigation
+
+**Novel protein biomarkers**:
+1. **Gelsolin**: Under investigation for neurological mitochondrial diseases
+2. **Chitinase-3-like protein 1**: Neuroinflammation marker in mitochondrial disorders
+3. **Mitochondrial-derived microRNAs**: Early research stage[28]
+
+**Advanced metabolomics**:
+1. **Comprehensive metabolite panels**: Disease-specific signatures under development
+2. **Lipidomics profiles**: Beyond cardiolipin analysis for broader mitochondrial diseases
+3. **Real-time metabolite monitoring**: Wearable biosensor development
+
+**Functional biomarkers**:
+1. **Mitochondrial respiration assays**: From peripheral blood mononuclear cells
+2. **ATP production capacity**: Non-invasive assessment methods
+3. **Mitochondrial membrane potential**: Flow cytometry-based approaches
+
+### Clinical Trial Applications
+
+Recent phase 1a/1b trials (KL1333 for primary mitochondrial diseases) demonstrate the importance of validated biomarkers for:
+
+1. **Patient stratification**: Selecting appropriate participants based on biomarker profiles
+2. **Treatment monitoring**: Assessing therapeutic response through biomarker changes
+3. **Safety assessment**: Early detection of treatment-related mitochondrial dysfunction
+
+The KL1333 trial highlighted patient-reported fatigue scales and 30-second sit-to-stand tests as sensitive outcome measures, while traditional biomarkers showed limited utility for treatment response monitoring.[29]
+
+### Regulatory and Standardization Needs
+
+**Requirements for clinical adoption**:
+1. **Reference range standardization**: Age-specific, ethnicity-adjusted normal values
+2. **Quality control protocols**: Standardized procedures for novel assays
+3. **Diagnostic algorithm integration**: Evidence-based biomarker utilization guidelines
+4. **Cost-effectiveness analysis**: Health economic evaluation for healthcare systems
+
+**Regulatory pathways**:
+- FDA biomarker qualification programs for mitochondrial diseases
+- European Medicines Agency guidelines for rare disease biomarkers
+- International harmonization of analytical standards
+
+## Conclusions and Recommendations
+
+This systematic review establishes **GDF-15 as the premier biofluid biomarker for mitochondrial diseases**, with superior diagnostic accuracy (83% sensitivity, 92% specificity) demonstrated across multiple large-scale studies. **CSF neurofilament light chain emerges as the optimal biomarker for pediatric neurological mitochondrial diseases**, while **cell-free circulating mtDNA provides specific utility for MELAS monitoring**.
+
+**Clinical recommendations**:
+
+1. **Primary screening**: GDF-15 measurement for all suspected mitochondrial disease cases, with age-appropriate reference ranges
+2. **Neurological assessment**: CSF NF-L for pediatric cases with neurological involvement; serum NF-L for adult CNS assessment
+3. **Disease-specific monitoring**: ccf-mtDNA for MELAS patients, cardiolipin analysis for suspected Barth syndrome, thiosulfate for ethylmalonic encephalopathy
+4. **Combination approach**: Multi-biomarker panels rather than single marker reliance for optimal diagnostic accuracy
+
+**Future research priorities**:
+
+1. **Validation studies**: Large-scale multicenter trials to establish standardized reference ranges
+2. **Treatment biomarkers**: Development of biomarkers specifically for monitoring therapeutic response
+3. **Early detection**: Identification of biomarkers for pre-symptomatic or mildly symptomatic mitochondrial dysfunction
+4. **Pediatric-specific research**: Age-stratified biomarker validation with appropriate pediatric reference ranges
+
+The evidence strongly supports implementation of validated biofluid biomarkers as first-line diagnostic tools, potentially reducing reliance on invasive muscle biopsy while improving diagnostic accuracy and patient outcomes in mitochondrial diseases.
+
+[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7524861/)
+[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC7359119/)
+[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9047692/)
+[4](https://discovery.ucl.ac.uk/id/eprint/10064483/1/Zetterberg_Cerebrospinal%20fluid%20neurofilament%20light%20is%20associated%20with%20survival%20in%20mitochondrial%20disease%20patients_AAM.pdf)
+[5](https://www.nature.com/articles/s41598-021-81721-7)
+[6](https://pmc.ncbi.nlm.nih.gov/articles/PMC7811758/)
+[7](https://pubmed.ncbi.nlm.nih.gov/21075023/)
+[8](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.00621/full)
+[9](https://pmc.ncbi.nlm.nih.gov/articles/PMC8161540/)
+[10](https://pmc.ncbi.nlm.nih.gov/articles/PMC5000852/)
+[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC2810849/)
+[12](https://www.pnas.org/doi/10.1073/pnas.0906039107)
+[13](https://pubmed.ncbi.nlm.nih.gov/1665506/)
+[14](https://pmc.ncbi.nlm.nih.gov/articles/PMC6793887/)
+[15](https://pubmed.ncbi.nlm.nih.gov/35574161/)
+[16](https://pubmed.ncbi.nlm.nih.gov/36375592/)
+[17](https://www.orpha.net/pdfs/data/patho/GB/uk-BarthSyndrome.pdf)
+[18](https://pubmed.ncbi.nlm.nih.gov/24751896/)
+[19](https://www.nature.com/articles/s41598-019-49014-2)
+[20](https://pmc.ncbi.nlm.nih.gov/articles/PMC3579397/)
+[21](https://www.embopress.org/doi/full/10.1002/emmm.201201433)
+[22](https://jamanetwork.com/journals/jamaneurology/fullarticle/791965)
+[23](https://pmc.ncbi.nlm.nih.gov/articles/PMC9028656/)
+[24](https://magistralbr.caldic.com/storage/product-files/594108451.pdf)
+[25](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1123928/full)
+[26](https://www.nature.com/articles/s10038-022-01075-4)
+[27](https://pmc.ncbi.nlm.nih.gov/articles/PMC5434102/)
+[28](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1555563/pdf)
+[29](https://academic.oup.com/brain/article/148/1/39/7911991)
+[30](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0145042)
+[31](https://www.sciencedirect.com/science/article/pii/S1567724921001483)
+[32](https://pmc.ncbi.nlm.nih.gov/articles/PMC8471677/)
+[33](https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2025.1608853/full)
+[34](https://www.sciencedirect.com/science/article/pii/S1878747924000114)
+[35](https://d-nb.info/1221591584/34)
+[36](https://pmc.ncbi.nlm.nih.gov/articles/PMC10903091/)
+[37](https://pmc.ncbi.nlm.nih.gov/articles/PMC4796224/)
+[38](https://pmc.ncbi.nlm.nih.gov/articles/PMC10887352/)
+[39](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1320757/full)
+[40](https://www.nature.com/articles/pr1993744)
+[41](https://ajronline.org/doi/10.2214/AJR.05.0180)
+[42](https://tp.amegroups.org/article/view/138680/html)
+[43](https://en.wikipedia.org/wiki/Pearson_syndrome)
+[44](https://pubmed.ncbi.nlm.nih.gov/38391710/)
+[45](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726174/)
+[46](https://pubmed.ncbi.nlm.nih.gov/26016877/)
+[47](https://umdf.org/cpeo/)
+[48](https://pubmed.ncbi.nlm.nih.gov/25691415/)
+[49](https://www.orpha.net/en/disease/detail/329336)
+[50](https://www.springermedizin.de/pearson-syndrome-a-multisystem-mitochondrial-disease-with-bone-m/23612150)
+[51](https://eyewiki.org/Chronic_Progressive_External_Ophthalmoplegia_(CPEO))
+[52](https://pubmed.ncbi.nlm.nih.gov/20941643/)
+[53](https://i-mri.org/DOIx.php?id=10.13104%2Fimri.2018.22.2.119)
+[54](https://www.orpha.net/en/disease/detail/726)
+[55](https://en.wikipedia.org/wiki/Neuropathy,_ataxia,_and_retinitis_pigmentosa)
+[56](https://www.dovepress.com/alpersndashhuttenlocher-syndrome-the-role-of-a-multidisciplinary-healt-peer-reviewed-fulltext-article-JMDH)
+[57](https://www.nature.com/articles/s41392-024-02044-3)
+[58](https://eyewiki.org/Neuropathy,_Ataxia,_Retinitis_Pigmentosa_(NARP)_Syndrome)
+[59](https://pmc.ncbi.nlm.nih.gov/articles/PMC7379503/)
+[60](https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvad037/7143230)
+[61](https://pmc.ncbi.nlm.nih.gov/articles/PMC8219086/)
+[62](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1491283/full)
+[63](https://www.neurology.org/doi/10.1212/WNL.0000000000205852)
+[64](https://www.orpha.net/en/disease/detail/104)
+[65](https://en.wikipedia.org/wiki/MERRF_syndrome)
+[66](https://pmc.ncbi.nlm.nih.gov/articles/PMC5625994/)
+[67](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2017.00520/pdf)
+[68](https://pmc.ncbi.nlm.nih.gov/articles/PMC5500664/)
+[69](https://pmc.ncbi.nlm.nih.gov/articles/PMC4988248/)
+[70](https://www.springermedizin.de/novel-biallelic-tk2-mutations-cause-mitochondrial-dna-depletion-/50759362)
+[71](https://pmc.ncbi.nlm.nih.gov/articles/PMC10401187/)
+[72](https://pmc.ncbi.nlm.nih.gov/articles/PMC4112526/)
+[73](https://pmc.ncbi.nlm.nih.gov/articles/PMC10740444/)
+[74](https://www.nature.com/articles/gim2015204)
+[75](https://pubmed.ncbi.nlm.nih.gov/32348916/)
+[76](https://pmc.ncbi.nlm.nih.gov/articles/PMC11716626/)
+[77](https://www.nature.com/articles/s41598-024-84926-8)
+[78](https://www.neurology.org/doi/10.1212/WNL.0000000000002705)
+[79](https://pmc.ncbi.nlm.nih.gov/articles/PMC8432143/)
+[80](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2022.851534/full)
+[81](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/32603f6de103df412dedab79872cbc94/dd788425-0e0f-4bf9-a5f3-c843967d6e7e/f6e21392.csv)
+[82](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/32603f6de103df412dedab79872cbc94/dd788425-0e0f-4bf9-a5f3-c843967d6e7e/14d84cc8.csv)
+[83](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/32603f6de103df412dedab79872cbc94/dd788425-0e0f-4bf9-a5f3-c843967d6e7e/df16bb9f.csv)
+[84](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/32603f6de103df412dedab79872cbc94/dd788425-0e0f-4bf9-a5f3-c843967d6e7e/60f53f48.csv)

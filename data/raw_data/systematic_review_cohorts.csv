@@ -1,0 +1,13 @@
+Study_First_Author,Primary_Biomarker,Total_Cohort_Size,Age_Range,Specific_Conditions,Geographic_Location,Key_Findings
+Meta-analysis (8 studies),GDF-15/FGF-21,"1563 (845 GDF-15, 718 FGF-21)",Mixed (pediatric/adult),Mixed mitochondrial diseases,Multi-continental,GDF-15 superior to FGF-21
+Yatsuga (2015),GDF-15/FGF-21,"194 (48 MD, 146 controls)",Adults (33.6±18.7 years),Mixed MD (genetic confirmation),Japan,"Both elevated, GDF-15 more specific"
+Li (2022) - Pediatric,GDF-15/FGF-21,"131 (51 PMD, 30 NMD, 50 controls)",Pediatric (median 5.6 years),Primary mitochondrial disorders,China,GDF-15 best pediatric biomarker
+Sofou (2017),CSF NF-L,"68 (46 ME, 22 controls)",Pediatric (0-18 years),"Leigh, MELAS, PDC deficiency",Sweden,CSF NF-L correlates with survival
+Maresca (2015),ccf-mtDNA,123 MD patients,Mixed ages,"MELAS, MERRF, NARP, LHON",Italy,ccf-mtDNA elevated in MELAS attacks
+Magner (2011),CSF Lactate,"119 (24 MD, 95 controls)",Pediatric,Mixed MD with CNS involvement,Czech Republic,CSF lactate reliable for neurological MD
+Lehtonen (2016),Metabolomics,33 various MD types,Variable by condition,"IOSCA, MIRAS, PEO, MELAS/MIDD",Finland,Metabolic signatures disease-specific
+Garone (2012),TK2 deficiency markers,20 TK2 deficiency patients,Infantile/childhood,TK2 deficiency (mtDNA depletion),USA/International,GDF-15 elevated in TK2 deficiency
+Vernon (2014),Barth syndrome markers,28 Barth syndrome patients,10 months - 30 years,Barth syndrome (TAZ mutations),USA,Cardiolipin profile diagnostic
+Tiranti (2009),EE markers (thiosulfate),Mouse model + human validation,Infantile,Ethylmalonic encephalopathy (ETHE1),Italy,Thiosulfate specific for EE
+Langsjoen (2014),CoQ10 forms,12 healthy volunteers,Adults,Healthy subjects (CoQ10 study),USA,Ubiquinol superior bioavailability
+Pietta (1991),Oxidative stress markers,"17 (11 PEO, 6 controls)",Adults,PEO with COX deficiency,Italy,Oxidative stress markers elevated

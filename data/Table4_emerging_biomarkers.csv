@@ -1,0 +1,7 @@
+Biomarker,Molecular_Type,Biomaterial,Analytical_Method,N_Studies,N_Patients,Best_Performance,Clinical_Utility,Advantages,Limitations,Development_Stage
+Cell-free circulating mtDNA (ccf-mtDNA),Nucleic acid,"Serum, plasma","qPCR (MT-ND2, MT-ND1)",2,165,MELAS: AUC 0.73 (0.60-0.86),"Acute monitoring, disease progression",Real-time mitochondrial damage,"Technical complexity, standardization needed",Research/validation
+Neurofilament Light Chain (NfL),Protein,"Serum, CSF",Simoa immunoassay,3,187,"Sens 68.4%, Spec 82.1%",Neurological involvement assessment,"Reflects axonal damage, high sensitivity",Non-specific for mitochondrial diseases,Clinical validation
+Gelsolin,Protein,Serum,ELISA,2,134,"Sens 71.2%, Spec 78.9%",Muscle involvement assessment,Muscle-specific marker,Limited validation data,Early research
+Humanin,Peptide,"Serum, plasma","ELISA, LC-MS/MS",1,67,"Sens 65.0%, Spec 75.0%",Mitochondrial stress response,Mitochondrial-specific peptide,Very limited data,Proof of concept
+Cytochrome c,Protein,Serum,ELISA,2,98,"Sens 58.3%, Spec 72.1%",Mitochondrial membrane integrity,Direct mitochondrial marker,Low diagnostic accuracy,Research
+Coenzyme Q10,Lipid,"Serum, plasma","HPLC, LC-MS/MS",3,156,"Sens 45.2%, Spec 68.9%",Respiratory chain function,Therapeutic target,Poor diagnostic performance,Research

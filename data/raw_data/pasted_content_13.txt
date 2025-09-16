@@ -1,0 +1,72 @@
+Most Promising Emerging Biofluid Biomarkers for Mitochondrial Diseases
+While FGF21 and GDF15 are currently the most validated and widely used biofluid biomarkers for mitochondrial diseases (MDs), several emerging biomarkers—especially from metabolomics, lipidomics, and proteomics—are showing strong promise for future clinical application. Below, I summarize the most promising emerging biomarkers, their molecular class, performance, and supporting evidence.
+
+Multi-Metabolite Panels (Metabolomics Signatures)
+A. Multi-Metabolite Blood Panels
+
+Panel Example: Sorbitol, alanine, myoinositol, cystathionine
+Performance: Sensitivity 76%, specificity 95% (AUC 0.94) for distinguishing primary MDs from controls in a mixed cohort.
+Rationale: These panels capture the complex metabolic derangements in MDs better than any single metabolite.
+Status: Emerging; requires further validation in larger, diverse cohorts.
+
+B. N-lactoyl-amino acids, β-hydroxy acylcarnitines, and β-hydroxy fatty acids
+
+Context: Identified via untargeted metabolomics in MELAS and other MDs.
+Clinical value: Correlate with disease severity and NADH/NAD+ redox imbalance, a core pathomechanism in MDs.
+
+Lipidomic Biomarkers
+A. Plasma Lipidomics Panel
+
+Key Lipids: Phosphatidylinositol 38:6 (PI 38:6), lysophosphatidylcholines (lysoPCs) 20:0, 19:0, 18:0, 17:0
+Performance: AUC >0.99, sensitivity and specificity near 100% in distinguishing MD patients from controls (small cohort, n=20 MD, 20 controls).
+Status: Very promising, but needs replication in larger and more diverse cohorts.
+
+B. Hydroxylated Acylcarnitines
+
+Context: Elevated in mitochondrial myopathies and MDs, especially hydroxylated long-chain acylcarnitines.
+Potential: May help distinguish MDs from fatty acid oxidation disorders and other myopathies.
+
+Proteomic Biomarkers
+A. Gelsolin (pGSN and mGSN/pGSN Ratio)
+
+Context: Decreased plasma gelsolin (pGSN) and increased mitochondrial gelsolin (mGSN) are associated with OXPHOS dysfunction.
+Performance: When combined with FGF21 and GDF15, improves diagnostic accuracy (e.g., sensitivity 89%, specificity 93%).
+
+B. Neurofilament Light Chain (NfL)
+
+Context: Elevated in CSF and serum in MDs with neurodegenerative features.
+Potential: May serve as a marker of neurodegeneration and disease severity in mitochondrial encephalopathies.
+
+Cell-Free Circulating Mitochondrial DNA (ccf-mtDNA)
+
+Context: Elevated in plasma and CSF of MD patients, especially during acute events (e.g., MELAS stroke-like episodes).
+Performance: Sensitivity 25%, specificity 94% in plasma (limited), but higher in CSF for acute and severe events.
+Potential: May be useful for monitoring disease activity and acute exacerbations.
+
+Urinary and Salivary Biomarkers
+
+Urinary Metabolomic Signatures: Distinct urinary metabolic profiles (e.g., 4-aminohippurate, homovanillic acid, cis-aconitate, fumarate) can differentiate pediatric MD from controls and CKD, with high AUC values in small studies.
+Salivary GDF15: Early data suggest salivary GDF15 may be a non-invasive marker for mitochondrial disease monitoring.
+
+Other Promising Candidates
+
+Redox and NAD+ Metabolites: Markers reflecting NADH/NAD+ imbalance (e.g., α-hydroxybutyrate, β-hydroxybutyrate/acetoacetate ratio) are emerging as mechanistically relevant and potentially useful for monitoring disease activity and therapy response.
+
+Summary Table: Most Promising Emerging Biomarkers
+
+Biomarker/PanelMolecular ClassBiofluidPerformance (AUC, Sens/Spec)Context/NotesReferenceSorbitol, alanine, myoinositol, cystathionineMetabolite panelBloodAUC 0.94, 76/95%Primary MD PI 38:6, lysoPCs 20:0/19:0/18:0/17:0Lipidomics panelPlasmaAUC >0.99, ~100/100%MD vs. controls N-lactoyl-amino acids, β-hydroxy acylcarnitines/fatty acidsMetabolite panelBloodCorrelate with severityMELAS, MD Hydroxylated acylcarnitinesLipid/MetabolitePlasmaEmergingMyopathy Gelsolin (pGSN, mGSN/pGSN)ProteinPlasmaSens 89%, Spec 93% (with FGF21/GDF15)OXPHOS dysfunction Neurofilament light chain (NfL)ProteinCSF, SerumEmergingNeurodegeneration ccf-mtDNADNA fragmentPlasma, CSFSens 25%, Spec 94% (plasma), higher in CSFMELAS, acute events Urinary metabolomic signaturesMetabolite panelUrineAUC up to 0.94 (small studies)Pediatric MD[Recent studies]Salivary GDF15ProteinSalivaEmergingNon-invasive monitoring 
+
+Key Points
+
+Multi-marker panels (metabolite, lipid, and protein) are outperforming single-molecule biomarkers in sensitivity and specificity.
+Lipidomics and metabolomics are revealing new classes of biomarkers (e.g., lysoPCs, PI 38:6, N-lactoyl-amino acids, β-hydroxy acylcarnitines) that may be highly specific for MDs.
+Proteomic markers such as gelsolin and NfL, and cell-free mtDNA, are promising for specific contexts (e.g., OXPHOS dysfunction, neurodegeneration, acute events).
+Non-blood biofluids (urine, saliva) are being explored for non-invasive diagnostics and monitoring.
+Validation in larger, diverse, and longitudinal cohorts is needed before these emerging biomarkers can be widely adopted in clinical practice.
+
+References:
+
+
+
+In summary:
+The most promising emerging biomarkers for mitochondrial diseases are multi-analyte panels from metabolomics and lipidomics, specific lipid species (e.g., PI 38:6, lysoPCs), N-lactoyl-amino acids, β-hydroxy acylcarnitines, gelsolin, neurofilament light chain, cell-free mitochondrial DNA, and novel signatures in urine and saliva. These are poised to transform diagnosis and monitoring, pending further validation.

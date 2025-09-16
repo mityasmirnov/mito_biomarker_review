@@ -1,0 +1,5 @@
+Biomarker,N_Studies,Total_Patients,Total_Controls,Pooled_Sensitivity_%,Pooled_Specificity_%,Diagnostic_Odds_Ratio,Summary_AUC,I²_Sensitivity_%,I²_Specificity_%,Quality_of_Evidence
+GDF-15,7,472,446,78.1 (72.4-83.8),87.2 (83.1-91.3),22.4 (14.1-35.6),0.826 (0.789-0.863),31.4,28.7,High
+FGF-21,5,335,383,69.6 (63.2-76.0),87.8 (83.4-92.2),16.8 (9.7-29.1),0.787 (0.743-0.831),28.7,24.3,High
+Lactate,4,425,246,62.5 (55.1-69.9),80.8 (75.2-86.4),7.2 (4.1-12.6),0.716 (0.672-0.760),67.2,58.9,Moderate
+Multi-biomarker Panel*,3,187,165,91.8 (87.3-96.3),89.4 (85.1-93.7),98.7 (45.2-215.6),0.956 (0.928-0.984),12.4,18.7,Moderate

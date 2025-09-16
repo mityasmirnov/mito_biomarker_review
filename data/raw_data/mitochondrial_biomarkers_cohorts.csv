@@ -1,0 +1,10 @@
+Study/Biomarker,Total_Patients,Controls,Specific_Conditions,Age_Range
+GDF-15 (Meta-analysis),845 (GDF-15),Varied across studies,Mixed mitochondrial diseases,Mixed (pediatric/adult)
+FGF-21 (Meta-analysis),718 (FGF-21),Varied across studies,Mixed mitochondrial diseases,Mixed (pediatric/adult)
+GDF-15/FGF-21 (Diagnostic study),54 (MD) + 22 (controls),22,Genetic and muscle biopsy confirmed,Adult only
+Creatine (Plasma signature),120 (total cohort),60 (controls),Respiratory chain disease,Not specified
+ccf-mtDNA (Maresca et al.),123 (MD patients),Not specified,"MELAS, MERRF, NARP, LHON",Mixed
+CSF NF-L (Sofou et al.),46 (ME) + 22 (controls),22,"Leigh, MELAS, PDC deficiency",Pediatric (0-18 years)
+CSF Lactate (Magner et al.),24 (MD) + 95 (controls),95 (various groups),Mixed mitochondrial diseases,Pediatric
+Metabolomics (Lehtonen et al.),33 (various MD types),Age-matched controls,"IOSCA, MIRAS, PEO, MELAS/MIDD",Variable by condition
+Oxidative stress (Pietta et al.),11 (PEO patients),6 (healthy controls),PEO with COX deficiency,Adult

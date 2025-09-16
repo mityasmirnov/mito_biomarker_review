@@ -1,0 +1,157 @@
+Systematic Review: Biofluid Biomarkers for Mitochondrial Diseases
+This systematic review synthesizes current evidence on biofluid biomarkers for mitochondrial diseases (MDs), focusing on their diagnostic, screening, severity estimation, and progression analysis performance. We stratify findings by molecular class (protein, lipid, metabolite), analytical method, and clinical context (general MD, individual syndromes, pediatric/adult, primary/secondary MD). Genetic and MRI biomarkers are excluded. Only human studies are included, with both reviews and original studies cited.
+
+Overview of Mitochondrial Diseases and Biomarker Needs
+Mitochondrial diseases are a heterogeneous group of disorders, often affecting multiple organs, with variable onset and severity. Diagnosis is challenging due to clinical variability and the lack of highly sensitive and specific non-genetic biomarkers. Biofluid biomarkers are sought for:
+
+Diagnosis (differentiating MD from other disorders)
+Screening (early detection)
+Severity estimation (correlating with disease burden)
+Progression analysis (monitoring over time or with therapy)
+
+Types of Biofluid Biomarkers and Analytical Methods
+A. Protein Biomarkers
+
+FGF21 (Fibroblast Growth Factor 21)
+GDF15 (Growth Differentiation Factor 15)
+Gelsolin
+Neurofilament light chain (NfL)
+Cell-free circulating mtDNA (ccf-mtDNA)
+
+Analytical methods: ELISA, immunoassays, mass spectrometry
+B. Metabolite Biomarkers
+
+Lactate, Pyruvate, Lactate/Pyruvate ratio
+Amino acids (e.g., alanine, arginine, citrulline)
+Creatine, Creatine kinase
+Acylcarnitines
+Metabolomic panels (e.g., sorbitol, alanine, myoinositol, cystathionine, N-lactoyl-amino acids, β-hydroxy acylcarnitines, β-hydroxy fatty acids)
+
+Analytical methods: Targeted/untargeted metabolomics (LC-MS, GC-MS, NMR), enzymatic assays
+C. Lipid Biomarkers
+
+Lipidomic panels (e.g., lysoPCs, phosphatidylinositols, acylcarnitines, plasmalogens)
+
+Analytical methods: Lipidomics (LC-MS/MS)
+
+Performance of Key Biomarkers
+A. FGF21 and GDF15
+General Mitochondrial Disease
+
+FGF21: Sensitivity 41–83%, specificity 83–97% (cutoffs vary, e.g., 200–350 pg/ml). Best for muscle-manifesting MDs, especially pediatric cases. Notably, FGF21 is less frequently elevated in non-mitochondrial neuromuscular diseases in children, making it more specific in pediatric cohorts.
+GDF15: Sensitivity 66–98%, specificity 64–97%. GDF15 is highly sensitive for MDs, including non-myopathic forms and multisystem disease, but can be elevated in non-mitochondrial diseases (e.g., cancer, renal, cardiac, liver diseases), limiting specificity in adults.
+
+Pediatric MD
+
+GDF15: AUC 0.89, sensitivity 86%, specificity 62% (cutoff ~606 pg/ml). Best for screening/diagnosis.
+FGF21: AUC 0.81, sensitivity 76%, specificity 72% (cutoff ~117 pg/ml). Best for severity estimation (correlates with disease severity scores).
+
+Adult MD
+
+Both markers are useful, but specificity is lower due to more comorbidities. GDF15 is more sensitive but less specific than FGF21.
+
+Individual Syndromes
+
+MELAS/MERRF: Both FGF21 and GDF15 are elevated, with GDF15 showing AUC up to 0.99, sensitivity 98%, specificity 100% in some cohorts.
+
+Cohort Details
+
+Studies range from small (n=10–20) to large (n>100), with controls typically healthy or with non-mitochondrial neuromuscular diseases. Both pediatric and adult cohorts are represented.
+
+Biofluid
+
+Serum or plasma; less commonly CSF.
+
+Summary Table: FGF21 and GDF15
+
+BiomarkerDisease ContextSensitivitySpecificityAUCCohort SizeControlsBiofluidReferenceFGF21General MD (peds)76%72%0.8151 PMD, 30 NMD, 50 HCNMD, HCSerum GDF15General MD (peds)86%62%0.8951 PMD, 30 NMD, 50 HCNMD, HCSerum FGF21General MD (adults)41–83%83–97%0.75–0.9770–104 MD, 24–66 controlsHC, NMDSerum GDF15General MD (adults)66–98%64–97%0.69–0.9970–104 MD, 24–66 controlsHC, NMDSerum 
+
+B. Metabolite Biomarkers
+Lactate, Pyruvate, Lactate/Pyruvate Ratio
+
+Lactate: Sensitivity 15–100%, specificity 83–100%. Not specific, as many conditions cause lactic acidosis. Sensitivity is higher in MELAS and Leigh syndrome, especially in CSF.
+Pyruvate: Sensitivity 35–88%, specificity 81–87%. Similar limitations.
+Lactate/Pyruvate Ratio: Sensitivity 12–82%, specificity 69–100%. More specific for mitochondrial dysfunction than lactate alone.
+
+Amino Acids
+
+Alanine: Elevated in MDs, especially MELAS. Sensitivity and specificity not well established but used in diagnostic criteria (e.g., Nijmegen criteria: >450 μM highly specific for MD).
+Arginine/Citrulline: Low in MELAS, especially during stroke-like episodes. Useful for monitoring and therapy response.
+
+Creatine and Creatine Kinase
+
+Creatine: Sensitivity 39–60%, specificity 83–93%. Elevated in severe MDs but not specific.
+Creatine Kinase: Sensitivity 22–34%, specificity 74–97%. Not specific.
+
+Acylcarnitines
+
+Short-chain and hydroxylated acylcarnitines are elevated in MDs, but overlap with fatty acid oxidation disorders.
+
+Metabolomic Panels
+
+Multi-biomarker panels (e.g., sorbitol, alanine, myoinositol, cystathionine) can distinguish primary MDs from controls with 76% sensitivity and 95% specificity (AUC 0.94). These panels outperform single metabolites.
+
+Biofluid
+
+Plasma, serum, urine, CSF.
+
+Summary Table: Metabolite Biomarkers
+
+BiomarkerDisease ContextSensitivitySpecificityAUCCohort SizeControlsBiofluidReferenceLactateGeneral MD15–100%83–100%0.88–0.99935 blood, 204 CSFHC, NMDBlood, CSF AlanineGeneral MDN/AN/AN/A10 studiesHC, NMDPlasma, CSF Multi-panelPrimary MD76%95%0.9425 MD, 30 controlsHC, NMDBlood 
+
+C. Lipid Biomarkers
+Lipidomic Panels
+
+Phosphatidylinositols (PI 38:6), lysoPCs (20:0, 19:0, 18:0, 17:0): AUC >0.99, sensitivity and specificity near 100% in distinguishing MD patients from controls in small cohorts (n=20 MD, 20 controls). These are emerging biomarkers and require validation in larger, diverse cohorts.
+
+Biofluid
+
+Plasma.
+
+Summary Table: Lipid Biomarkers
+
+BiomarkerDisease ContextSensitivitySpecificityAUCCohort SizeControlsBiofluidReferencePI 38:6, lysoPCsGeneral MD100%100%>0.9920 MD, 20 controlsHCPlasma 
+
+D. Proteomic Approaches
+
+Proteomic profiling of plasma/serum/urine/CSF is increasingly used to identify biomarker panels for MDs. These approaches can identify both known and novel protein biomarkers, but are not yet standardized for clinical use.
+
+Biomarker Performance by Clinical Application
+
+Biomarker(s)DiagnosisScreeningSeverity EstimationProgression AnalysisCommentsFGF21++++++++++Best for pediatric, muscle MDsGDF15++++++++++Best for screening, less specific in adultsLactate/Pyruvate++++++Non-specific, best in MELAS/LeighAlanine++++++Used in diagnostic criteriaMulti-metabolite panel+++++++++Emerging, high accuracyLipidomics panel++++??Emerging, needs validationGelsolin, NfL+?++NfL for neurodegenerative formsccf-mtDNA+?+++Best in MELAS, acute events
+
+Stratification by Patient Group
+
+Pediatric: FGF21 is more specific, GDF15 is more sensitive for diagnosis; both elevated in primary MDs regardless of genotype/phenotype.
+Adult: Both FGF21 and GDF15 are useful, but specificity is lower due to comorbidities.
+Primary vs. Secondary MD: Both markers elevated in primary MDs; mild elevation in secondary MDs (e.g., epilepsy, DMD) but not to the same degree.
+Syndromic (e.g., MELAS, Leigh): Lactate, pyruvate, alanine, arginine/citrulline, and multi-marker panels are particularly useful.
+
+Limitations and Future Directions
+
+No single biomarker achieves perfect sensitivity and specificity for all MDs.
+Panels of biomarkers (multi-omics) offer improved diagnostic accuracy.
+Lipidomics and metabolomics are promising but require further validation.
+Biomarker performance varies by age, phenotype, and disease stage.
+Standardization of assays and cutoffs is needed for clinical implementation.
+
+References
+
+[Biomarkers of mitochondrial disorders - PMC] 
+[Expanding and validating the biomarkers for mitochondrial diseases - PubMed] 
+[Circulating FGF21 and GDF15 as Biomarkers for Screening, Diagnosis, and Severity Assessment of Primary Mitochondrial Disorders in Children - PMC] 
+[FGF21 outperforms GDF15 as a diagnostic biomarker of mitochondrial disease in children - ScienceDirect] 
+[Metabolomes of mitochondrial diseases and inclusion body myositis patients: treatment targets and biomarkers - PubMed] 
+[Lipidomic profiling of plasma samples from patients with mitochondrial disease - ScienceDirect] 
+[Blood biomarkers for assessment of mitochondrial dysfunction: An expert review - ScienceDirect] 
+[Blood biomarkers of mitochondrial disease—One for all or all for one? - ScienceDirect] 
+[Integrative omics approaches provide biological and clinical insights: examples from mitochondrial diseases - JCI]
+
+Conclusion
+
+FGF21 and GDF15 are currently the most robust and validated biofluid biomarkers for mitochondrial diseases, with GDF15 being the most sensitive for screening and FGF21 more specific in pediatric and muscle-manifesting cases.
+Lactate, pyruvate, and alanine remain useful but lack specificity.
+Metabolomic and lipidomic panels are emerging with high diagnostic accuracy and may soon complement or surpass single-molecule biomarkers.
+No single biomarker is perfect; panels and multi-omics approaches are recommended for optimal diagnosis, severity estimation, and monitoring of mitochondrial diseases.
+
+Tables summarizing the main findings are included above. For further details on specific syndromes, age groups, or analytical methods, please request additional focused tables or sections.

@@ -1,0 +1,13 @@
+Disease/Syndrome,Primary_Biomarkers,Best_Performing_Biomarker,Clinical_Utility,Limitations
+MELAS,"ccf-mtDNA, Serum NF-L, GDF-15",ccf-mtDNA (during acute episodes),Monitoring acute episodes,Variable between episodes
+MERRF,"GDF-15, FGF-21, Lactate",GDF-15 (sensitivity 83%),"General diagnosis, severity",Not specific to MERRF
+LHON,"Structural OCT biomarkers, Clinical markers",OCT structural measures,Visual prognosis assessment,Structural measures require expertise
+Leigh Syndrome,"CSF NF-L, CSF Lactate, GDF-15",CSF NF-L (sensitivity 90%),"Prognosis, neurodegeneration monitoring",Invasive CSF collection
+NARP,"Clinical assessment, GDF-15",Clinical phenotype assessment,Limited biomarker utility,Relies heavily on clinical features
+Alpers Syndrome,"CSF NF-L, Lactate, GDF-15",CSF NF-L (high in Alpers),"Early detection, prognosis",CSF collection challenging
+CPEO/KSS,"FGF-21, GDF-15, Creatine","GDF-15 (general), FGF-21 (muscle)","Screening, severity assessment",Overlaps with other myopathies
+Pearson Syndrome,"Lactate, Amino acids, Organic acids",Lactate + amino acid profile,"Diagnosis, metabolic monitoring",Multiple biomarkers needed
+Barth Syndrome,"3-MGA, Cardiolipin ratios, Arginine",Cardiolipin ratios (100% specific),Definitive diagnosis,X-linked inheritance pattern
+Ethylmalonic Encephalopathy,"Thiosulfate, EMA, H2S metabolites",Thiosulfate (100% sensitive),"Definitive diagnosis, monitoring",Very rare condition
+TK2 Deficiency,"GDF-15, Creatine, mtDNA depletion",GDF-15 (elevated in all cases),"Diagnosis, treatment monitoring",Severe disease course
+CoQ10 Deficiency,"Plasma CoQ10, Ubiquinol/ubiquinone ratio",Plasma CoQ10 levels,"Diagnosis, treatment monitoring",Variable clinical presentation

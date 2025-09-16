@@ -1,0 +1,190 @@
+Condition,Biomarker,Molecular_Type,Sensitivity_Min,Sensitivity_Max,Sensitivity_Mean,Specificity_Min,Specificity_Max,Specificity_Mean,AUC_Min,AUC_Max,AUC_Mean,Has_Performance_Data
+MELAS (Mitochondrial Encephalomyopathy Lactic Acidosis Stroke-like episodes),Serum Neurofilament light chain (NfL),protein,,,,,,,,,,False
+Myoclonic Epilepsy with Ragged Red Fibers (MERRF),FGF21,protein,44.0,97.0,68.33333333333333,,,,0.61,0.73,0.6533333333333333,True
+Myoclonic Epilepsy with Ragged Red Fibers (MERRF),GDF-15,protein,44.0,97.0,68.33333333333333,,,,0.61,0.73,0.6533333333333333,True
+Myoclonic Epilepsy with Ragged Red Fibers (MERRF),Creatine,metabolite,44.0,97.0,68.33333333333333,,,,0.61,0.73,0.6533333333333333,True
+Myoclonic Epilepsy with Ragged Red Fibers (MERRF),ccf-mtDNA,dna,44.0,97.0,68.33333333333333,,,,0.61,0.73,0.6533333333333333,True
+Leigh syndrome,Creatine kinase,protein,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,GDF-15,protein,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,FGF-21,protein,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Gelsolin,protein,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Neurofilament light-chain,protein,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Lactate,metabolite,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Pyruvate,metabolite,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Lactate:Pyruvate ratio,metabolite,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Creatine,metabolite,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Malondialdehyde,metabolite,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Circulating cell-free mtDNA (nucleic acid),dna,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Amino acids (metabolite - Alanine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Arginine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Citrulline,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Valine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Leucine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Isoleucine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,ADMA,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Cysteine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Histidine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,1-Methyl-histidine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Lysine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Asparagine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Glutamate,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Glutamine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Glycine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Methionine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Phosphoserine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Serine,other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leigh syndrome,Threonine),other,20.0,97.9,66.675,57.5,97.2,78.925,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Vitamin B12 (Metabolite),metabolite,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Holotranscobalamin (Metabolite),metabolite,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Methylmalonic acid (Metabolite),metabolite,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Total plasma homocysteine (Metabolite),metabolite,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Nicotinamide (Vitamin B3) (Metabolite),metabolite,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),1-methylhistidine (Metabolite),metabolite,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Taurine (Metabolite - amino acid),other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Retinal Nerve Fiber Layer (RNFL) visibility scores (Imaging Biomarker),other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Never fiber bundle defects (Imaging Biomarker),other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Functional markers measured in blood cells (e.g.,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),respiratory chain complex activities,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),mitochondrial DNA copy number),other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),Biochemical markers of serum/plasma (e.g.,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),lactate,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),pyruvate,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),FGF-21,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),GDF-15),other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),DNA markers (e.g.,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),mitochondrial DNA mutations,other,,,,94.74,94.74,94.74,,,,True
+Leber Hereditary Optic Neuropathy (LHON),mitochondrial DNA deletions).,other,,,,94.74,94.74,94.74,,,,True
+Kearns-Sayre syndrome (KSS),Increased tau protein,protein,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Low 5-methyltetrahydrofolate (5-MTHF),metabolite,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Increased free sialic acid,metabolite,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Increased sphingomyelin C16:0 (d18:1/C16:0),lipid,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Lactate,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Pyruvate,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Creatine-Kinase,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Amino Acids,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Organic Acids,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Carnitines,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),Oxidative Stress Parameters,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),FGF-21,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),GDF-15,other,,,,,,,,,,False
+Kearns-Sayre syndrome (KSS),microRNAs,other,,,,,,,,,,False
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,and circulating cell-free mtDNA.,dna,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,Fibroblast Growth Factor 21 (FGF-21) and Growth Differentiation Factor 15 (GDF-15) are promising protein biomarkers. Other general mitochondrial biomarkers include lactate,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,pyruvate,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,lactate:pyruvate ratio,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,creatine kinase,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,creatine,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,amino acid profiles,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,glutathione,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,malondialdehyde,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,gelsolin,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Chronic Progressive External Ophthalmoplegia (CPEO) mitochondrial disease,neurofilament light-chain,other,0.71,0.83,0.77,0.88,0.92,0.9,,,,True
+Alpers disease,Elevated cerebrospinal fluid (CSF) neopterin,protein,,,,,,,,,,False
+Alpers disease,metabolite); increased serum and CSF folate receptor blocking autoantibodies .,protein,,,,,,,,,,False
+Alpers disease,interleukin-6 (IL-6,other,,,,,,,,,,False
+Alpers disease,protein),other,,,,,,,,,,False
+Alpers disease,interleukin-8 (IL-8,other,,,,,,,,,,False
+Alpers disease,protein),other,,,,,,,,,,False
+Alpers disease,interferon-gamma (IFN-gamma,other,,,,,,,,,,False
+Alpers disease,protein); reduced CSF 5-methyltetrahydrofolate (5MTHF,other,,,,,,,,,,False
+Barth Syndrome,Monolysocardiolipin (MLCL) and Cardiolipin (CL),other,,,,,,,,,,False
+Barth Syndrome,specifically the MLCL:CL ratio. Molecular type: Lipids. Plasma amino acids (decreased plasma arginine levels),other,,,,,,,,,,False
+Barth Syndrome,plasma 3-methylglutaconic acid,other,,,,,,,,,,False
+Barth Syndrome,cholesterol,other,,,,,,,,,,False
+Barth Syndrome,cholesterol synthetic intermediates,other,,,,,,,,,,False
+Barth Syndrome,red blood cell membrane fatty acid profiles. Molecular types: Amino acids,other,,,,,,,,,,False
+Barth Syndrome,metabolites,other,,,,,,,,,,False
+Barth Syndrome,lipids. Cardiolipin (CL) and Monolysocardiolipin (MLCL),other,,,,,,,,,,False
+Barth Syndrome,specifically the MLCL/CL ratio. Molecular type: Lipids (phospholipids).,other,,,,,,,,,,False
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),FGF21,protein,,,,,,,,,,False
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),GDF-15,protein,,,,,,,,,,False
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),Creatine,metabolite,,,,,,,,,,False
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),Alanine,metabolite,,,,,,,,,,False
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),Lactic Acid,metabolite,,,,,,,,,,False
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),Citrulline,metabolite,,,,,,,,,,False
+Neuropathy Ataxia Retinitis Pigmentosa (NARP),ccf-mtDNA (cell-free mitochondrial DNA),dna,,,,,,,,,,False
+Pearson syndrome,Carnitine ; Fumarate ; Alanine (amino acid); Arginine (amino acid); Lactate ; 3-hydroxybutyrate ; Lactate:Pyruvate ratio ; Citrulline (amino acid); 3-methylglutaconic acid ; Malic acid,metabolite,11.5,88.2,63.56666666666667,68.7,100.0,87.95,,,,True
+Maternally Inherited Diabetes and Deafness (MIDD),Glucose,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),galactose,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),mannose,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),sorbose,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),maltose (carbohydrates); 2-Hydroxybutyric acid,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),eicosapentaenoic acid,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),octadecanoic acid (fatty acids); alanine,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),threonic acid,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),cholesterol,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),lactic acid,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),gluconic acid,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),threonine,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),tryptophan,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),histidine,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),proline,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),glutamine,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),creatine,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),citrulline,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),3-Amino-2-piperidone,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),ornithine,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),arachidonic acid,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),malic acid,other,,,,,,,,,,False
+Maternally Inherited Diabetes and Deafness (MIDD),succinic acid (other metabolites/amino acids).,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),Circulating microRNAs (miRNAs). Specifically,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),five plasma miRNAs (miR-192-5p,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),miR-193a-5p,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),miR-194-5p,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),miR-215-5p,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),and miR-34a-5p) and three serum miRNAs (miR-192-5p,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),miR-194-5p,other,,,,,,,,,,False
+Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE),and miR-34a-5p) were identified.,other,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,Cardiac Biomarkers: LVMI,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,LVEF,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,IVS,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,LVPW,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,FS,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,NT-Pro BNP,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,ST2,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,troponin,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,Mitochondrial FXN,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,follistatin,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,myostatin,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,FXN levels,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,FXN concentration,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,PBMC FXN levels .,protein,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,Echocardiogram (imaging). Biochemical Biomarkers: Erythrocyte protoporphyrin IX,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,Urinary 8OH2'dG,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,Antioxidants,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,plasma malondialdehyde,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,plasma DHBA,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,urine F2-isoprostane,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,serum peroxides,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,NADH/NAD ratio,metabolite,,,,,,,,,,False
+Friedreich ataxia mitochondrial disease,FXN mRNA expression (nucleic acid),other,,,,,,,,,,False
+"POLG-related mitochondrial disease, specifically POLG-related epilepsy.",Elevated cerebrospinal fluid (CSF) protein,other,,,,,,,,,,False
+"POLG-related mitochondrial disease, specifically POLG-related epilepsy.",raised CSF/serum ratio of albumin (Q-alb ratio). Molecular type: protein,other,,,,,,,,,,False
+"POLG-related mitochondrial disease, specifically POLG-related epilepsy.",albumin.,other,,,,,,,,,,False
+Mitochondrial DNA Depletion Syndrome (MDS),Circulating cell-free mtDNA (molecular type: nucleic acid),dna,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Lactate (molecular type: metabolic acid),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Pyruvate (molecular type: metabolic acid),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Lactate:Pyruvate ratio (molecular type: metabolic ratio),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Creatine Kinase (CK) (molecular type: enzyme),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Creatine (molecular type: amino acid derivative),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Amino Acids (molecular type: amino acids),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Glutathione (molecular type: tripeptide),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Malondialdehyde (molecular type: lipid peroxidation product),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),GDF-15 (molecular type: cytokine),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),FGF-21 (molecular type: hormone),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Gelsolin (molecular type: protein),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Neurofilament light-chain (molecular type: protein),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),GDF-15 (for TK2 deficiency,other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),molecular type: cytokine),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),Methylmalonic aciduria (for SUCLA2 deficiency,other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),molecular type: organic acid),other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+Mitochondrial DNA Depletion Syndrome (MDS),No specific biofluid biomarkers found for RRM2B deficiency,other,11.5,100.0,51.62222222222222,68.7,100.0,86.74444444444445,,,,True
+CoQ10 deficiency mitochondrial disease,Coenzyme Q10 (CoQ10) levels (lipid,other,,,,,,,,,,False
+CoQ10 deficiency mitochondrial disease,metabolite),other,,,,,,,,,,False
+Thymidine Kinase 2 Deficiency (TK2d),FGF-21,protein,0.71,0.83,0.77,0.88,0.92,0.9,0.9,0.94,0.9199999999999999,True
+Thymidine Kinase 2 Deficiency (TK2d),GDF-15,protein,0.71,0.83,0.77,0.88,0.92,0.9,0.9,0.94,0.9199999999999999,True
+Mitochondrial Aminoacyl-tRNA Synthetase Deficiency (mtARS deficiency),Fibroblast Growth Factor 21 (FGF21) - Hormone,other,100.0,100.0,100.0,100.0,100.0,100.0,0.933,0.933,0.933,True
+Luft disease (nonthyroidal hypermetabolism),No specific biofluid biomarkers with molecular types were identified for Luft disease in the available literature.,other,,,,,,,,,,False
+Primary mitochondrial myopathy,"Neurofilament light chain (NF-L) - protein
+Fibroblast growth factor 21 (FGF-21) - protein
+Growth and differentiation factor 15 (GDF-15) - protein",other,,,,,,,,,,False

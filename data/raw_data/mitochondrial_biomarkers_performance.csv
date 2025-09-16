@@ -1,0 +1,16 @@
+Biomarker,Molecular_Origin,Biomaterial,Analytical_Method,Sensitivity_%,Specificity_%,Clinical_Application
+GDF-15,Protein (cytokine),Serum/Plasma,ELISA,83 (65-92),92 (84-96),Diagnosis/Screening
+FGF-21,Protein (growth factor),Serum/Plasma,ELISA,71 (53-84),88 (82-93),Diagnosis/Screening
+Creatine,Small molecule (guanidino compound),Plasma/Serum,Spectrophotometry/LC-MS,27 (severe cases),76-89,Diagnosis (severe cases)
+Cell-free circulating mtDNA,Nucleic acid (mitochondrial DNA),Plasma,qPCR,44 (MELAS),94 (86-102),MELAS monitoring
+CSF Lactate,Small molecule (organic acid),CSF,Spectrophotometry,90 (ME patients),88,Neurological diagnosis
+Plasma Lactate,Small molecule (organic acid),Plasma,Spectrophotometry,34-62,83-100,General screening
+CSF Alanine,Amino acid,CSF,Ion exchange chromatography,75-85,76-89,Diagnosis/Monitoring
+Plasma Alanine,Amino acid,Plasma,Ion exchange chromatography,50-67,76-89,Diagnosis/Monitoring
+Lactate/Pyruvate Ratio,Ratio (organic acids),Plasma/CSF,Spectrophotometry,31,100,Pyruvate metabolism
+CSF Neurofilament Light,Protein (structural),CSF,Simoa/ELISA,90 (ME patients),High,Prognosis/Monitoring
+Serum Neurofilament Light,Protein (structural),Serum/Plasma,Simoa,25 (all MD),94 (86-102),CNS involvement
+Malondialdehyde,Lipid (aldehyde),Plasma,Spectrophotometry/HPLC,Variable,Variable,Oxidative stress
+Glutathione (reduced),Tripeptide (antioxidant),Plasma/Erythrocytes,Spectrophotometry,Variable,Variable,Oxidative stress
+3-Methylglutaconic acid (urine),Small molecule (organic acid),Urine,GC-MS,11 (MD patients),High,Specific syndromes
+Acylcarnitines,Acyl-CoA derivatives,Plasma,Tandem MS (MS/MS),Variable,Variable,Fatty acid disorders

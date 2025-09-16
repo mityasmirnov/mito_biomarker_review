@@ -1,0 +1,102 @@
+### Key Points
+- Research suggests that protein biomarkers like GDF-15 and FGF-21 are among the most reliable for identifying mitochondrial diseases (MDs), with GDF-15 often showing higher sensitivity and specificity across primary and secondary forms, though no single biomarker is universally diagnostic.
+- Evidence leans toward metabolites such as lactate and pyruvate being useful for initial screening, but their performance can vary due to non-specific elevations in other conditions, making them less ideal for standalone use.
+- For specific syndromes like MELAS, biomarkers including ventricular lactate and serum GDF-15 appear elevated more consistently, but results for severity estimation and progression monitoring remain mixed across studies.
+- Protein biomarkers generally outperform traditional metabolites in diagnostic accuracy, yet combining them in panels may improve outcomes, as no marker achieves perfect sensitivity and specificity.
+- Emerging options like circulating cell-free mitochondrial DNA (ccf-mtDNA) and mitomiRs show promise for progression tracking, but validation in larger cohorts is needed.
+
+### Overview of Biomarker Types
+Biofluid biomarkers for MDs mainly include metabolites from energy pathway disruptions, proteins from stress responses, and lipids from membrane changes. These are measured in serum, plasma, urine, or CSF using methods like ELISA for proteins, mass spectrometry for metabolites and lipids, and PCR for nucleic acids. They help in non-invasive assessment, especially useful for pediatric and adult patients with primary (e.g., RC defects) or secondary (e.g., in ASD or NAFLD) MDs.
+
+### Performance in Diagnosis and Screening
+GDF-15 offers high utility with sensitivities often above 90% and specificities around 95%, suitable for screening suspected MD cases. FGF-21 performs well for muscle-related MDs, with sensitivities of 67-92% and specificities over 89%. Metabolites like lactate show variable sensitivities (15-100%), better for triage but limited by confounders.
+
+### Applications in Severity and Progression
+GDF-15 and FGF-21 correlate with severity scores in conditions like MELAS, but evidence for progression is limited and varies by study. ccf-mtDNA may rise during acute events, aiding monitoring.
+
+### Comparison Across Conditions
+In general MDs, GDF-15 has superior AUC (0.94-0.99) over FGF-21 (0.75-0.91). For syndromes like Leigh, low citrulline is specific; in MELAS, lactate ratios help differentiate. Pediatric cohorts show higher elevations in hepatopathies, while adults vary by muscle involvement.
+
+---
+
+### Comprehensive Systematic Review of Biofluid Biomarkers for Mitochondrial Diseases
+
+Mitochondrial diseases (MDs) represent a diverse group of disorders stemming from primary defects in the mitochondrial respiratory chain (RC) or secondary dysfunction due to other genetic or environmental factors, impacting energy production and leading to multisystem involvement. Primary MDs include conditions like MELAS, MERRF, Leigh syndrome, KSS, LHON, and CPEO, often caused by mtDNA or nDNA mutations. Secondary MDs arise in contexts like autism spectrum disorder (ASD), NAFLD, or drug-induced effects, where mitochondrial impairment is not the primary etiology but contributes to pathology. This review synthesizes data from human studies (pediatric and adult), drawing from reviews and original research up to 2025, focusing on biofluid biomarkers excluding genetic or MRI types. Biomarkers are categorized by molecular origin, with analytical methods, performance for diagnosis/screening, severity estimation, and progression analysis detailed. For each, sensitivity/specificity, AUC, cohort details (size, conditions, controls, age stratification), and biofluid are reported, emphasizing primary vs. secondary MDs where applicable. While well-established markers like lactate remain foundational, emerging ones like mitomiRs and lipid panels offer new insights, though validation is ongoing. Panels combining markers enhance utility, addressing heterogeneity in MDs.
+
+#### Metabolite Biomarkers
+Metabolites originate from disrupted glycolysis, TCA cycle, and amino acid/fatty acid metabolism, reflecting RC inefficiency. They are analyzed via enzymatic assays, MS, or chromatography in blood, urine, or CSF. Performance is variable, often better for screening in pediatric cases with acute presentations, but less specific in adults with chronic forms.
+
+- **Lactate**: From impaired pyruvate oxidation; enzymatic/MS methods. Sensitivity 15-100%, specificity 83-100%, AUC 0.6-0.994. Cohorts: 27 studies, 935 blood/204 CSF samples; mixed MD (35 patients), MELAS (31, pediatric/adult), Leigh (117, mostly pediatric), RRM2B depletion (9, pediatric); controls varied (50-146). Biofluid: Blood, serum, plasma, CSF. Useful for diagnosis/screening in primary MDs like MELAS (elevated >2 mmol/L); moderate for severity; weak for progression due to fluctuations. In secondary MDs (e.g., ASD), elevated in 17% (p<0.01).
+
+- **Pyruvate**: Glycolytic product; enzymatic/MS. Sensitivity 35-88%, specificity 81-87%, AUC 0.62-0.983. Cohorts: 6 studies, 185 blood/17 CSF; mixed MD (48, mixed ages), MELAS (17, pediatric/adult); 146 controls. Biofluid: Blood, serum, plasma, CSF. Aids diagnosis in primary MDs; limited for screening/severity/progression. Elevated in secondary MDs like ASD (41%, p<0.01).
+
+- **Lactate:Pyruvate Ratio**: Redox imbalance index; calculated. Sensitivity 12-82%, specificity 69-100%, AUC 0.71-0.919. Cohorts: 8 studies, 195 blood/17 CSF; mixed MD (35), RRM2B (3, pediatric); controls not specified. Biofluid: Blood, serum, CSF. Supports diagnosis in primary MDs; less for screening/progression. In ASD (secondary), elevated with large effect size (Cohen's d ≥0.6, p<0.01).
+
+- **Creatine Kinase (CK)**: Muscle damage marker; enzymatic. Sensitivity 22-34%, specificity 74-97%, AUC 0.56-0.609. Cohorts: 6 studies, 196 serum; mixed MD (mixed ages). Biofluid: Serum. Low sensitivity for diagnosis; some use in severity for myopathic primary MDs. Elevated in ASD (9%, p<0.01).
+
+- **Alanine**: Amino acid; MS/chromatography. Sensitivity ~75%, specificity 87% in targeted studies. Cohorts: General MD; elevated in ASD (15%, p<0.01). Biofluid: Plasma, serum. Supportive for diagnosis in primary aminoacidurias; limited progression data.
+
+- **Other Amino Acids (e.g., Proline, Citrulline)**: Transamination products. Variable performance; citrulline low in Leigh (sensitivity 66%, specificity 85% for T8993G). Cohorts: Leigh (16 patients, pediatric). Biofluid: Plasma. Diagnostic for specific primary MDs like Leigh.
+
+- **Organic Acids/Acylcarnitines**: Fatty acid oxidation defects; tandem MS. Low standalone; patterns useful. Cohorts: Pediatric primary MDs. Biofluid: Urine, plasma. Screening in defects; poor for severity.
+
+- **Metabolomics Panels (e.g., Sorbitol, Alanine, Myoinositol, Cystathionine)**: Multi-biomarker; MS/NMR. Sensitivity 76%, specificity 95%, AUC 0.94. Cohorts: 25 MD (IOSCA, MIRAS, PEO, MELAS, mixed ages), 6 IBM, 15 NMD; 30 controls. Biofluid: Blood, muscle. Promising for primary MD diagnosis/progression via signatures.
+
+#### Protein Biomarkers
+Proteins from cytokine stress responses; ELISA in serum/plasma. Stronger for diagnosis in both primary/secondary MDs, with correlations to severity.
+
+- **GDF-15**: Stress cytokine. Sensitivity 78-98%, specificity 86-95%, AUC 0.94-0.997. Cohorts: 48 MD (27 MELAS, 11 MELA, 3 Leigh, 2 MELAS/LS, 5 KSS; mean age 34); 146 controls; pediatric MH (36, <18 years). Biofluid: Serum/plasma. Excellent for diagnosis across primary MDs; correlates with severity (JMDRS r=0.76); useful progression in TK2 deficiency. In secondary (e.g., NAFLD), elevated.
+
+- **FGF-21**: Muscle/liver cytokine. Sensitivity 41-92%, specificity 89-92%, AUC 0.75-0.91. Cohorts: 67 MD (41 adult, 26 pediatric); 34 controls; pediatric MD (56); pediatric MH (36). Biofluid: Serum/plasma. Strong for muscle primary MDs; correlates severity; mixed progression.
+
+- **Combined GDF-15/FGF-21**: Sensitivity 88%, specificity 96%, AUC 0.90-0.93. Cohorts: Pediatric MH (36 vs. 38 disease controls). Biofluid: Serum. Predictive of survival; first-line for diagnosis.
+
+- **Interferon-Stimulated Genes (e.g., IFI27)**: Inflammatory markers. 75% upregulation in PMD. Cohorts: 55 PMD (mixed ages). Biofluid: Blood. Biomarker for primary MD severity; not secondary.
+
+#### Lipid Biomarkers
+From peroxidation/membrane changes; MS. Emerging for primary MDs.
+
+- **LysoPCs (20:0, 19:0, 18:0, 17:0), Phosphatidylinositols 38:6**: AUC >0.99 individually, 1 combined. Cohorts: 20 MD (mixed ages) vs. 20 controls. Biofluid: Plasma. Promising diagnosis/progression in primary MDs.
+
+#### Other Biomarkers
+- **ccf-mtDNA**: Damage signal; dd-PCR. Sensitivity 25%, specificity 94%, AUC 0.61. Cohorts: 123 MD (mixed) vs. 35 controls. Biofluid: Plasma. Limited diagnosis; useful acute events in MELAS.
+
+- **MitomiRs**: Regulatory; sequencing. Patterns in chronic diseases. Cohorts: Varied (neurodegenerative, etc.). Biofluid: Serum. Emerging for progression in primary/secondary MDs.
+
+- **Free-Thiamine**: Transporter deficiency; HPLC. Reduced in SLC19A3 Leigh. Cohorts: 6 SLC19A3 (pediatric) vs. controls. Biofluid: CSF. Diagnostic for treatable Leigh.
+
+#### Comparative Performance Table
+| Biomarker | Type | Method | Sensitivity (%) | Specificity (%) | AUC | Cohorts (Size/Conditions/Age) | Biofluid | Primary Use |
+|-----------|------|--------|-----------------|-----------------|-----|-------------------------------|----------|-------------|
+| Lactate | Metabolite | Enzymatic/MS | 15-100 | 83-100 | 0.6-0.994 | 935 blood; MELAS, Leigh (ped/adult) | Blood/CSF | Diagnosis/Screening |
+| Pyruvate | Metabolite | Enzymatic/MS | 35-88 | 81-87 | 0.62-0.983 | 185 blood; mixed MD (ped/adult) | Blood/CSF | Diagnosis |
+| L/P Ratio | Metabolite | Calculated | 12-82 | 69-100 | 0.71-0.919 | 195 blood; mixed MD (ped) | Blood/CSF | Diagnosis |
+| CK | Metabolite | Enzymatic | 22-34 | 74-97 | 0.56-0.609 | 196 serum; mixed MD (mixed) | Serum | Severity |
+| GDF-15 | Protein | ELISA | 78-98 | 86-95 | 0.94-0.997 | 48 MD (MELAS etc., mean 34); 36 ped MH | Serum/Plasma | Diagnosis/Severity/Progression |
+| FGF-21 | Protein | ELISA | 41-92 | 89-92 | 0.75-0.91 | 67 MD (41 adult/26 ped); 56 ped MD | Serum/Plasma | Diagnosis/Severity |
+| LysoPCs/PI | Lipid | MS | N/A | N/A | >0.99 | 20 MD (mixed) | Plasma | Diagnosis |
+| ccf-mtDNA | Nucleic | dd-PCR | 25 | 94 | 0.61 | 123 MD (mixed) | Plasma | Progression |
+| Citrulline | Metabolite | MS | 66 | 85 | N/A | 16 Leigh (ped) | Plasma | Diagnosis (Leigh) |
+
+In conclusion, while metabolites aid initial assessment, proteins like GDF-15 excel in specificity, with emerging biomarkers enhancing monitoring. Longitudinal studies in stratified cohorts are needed.
+
+### Key Citations
+- Biomarkers of mitochondrial disorders: https://pubmed.ncbi.nlm.nih.gov/38295557/
+- Blood biomarkers of mitochondrial disease: https://pubmed.ncbi.nlm.nih.gov/36813317/
+- Growth differentiation factor 15 for mitochondrial disorders: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5057301/
+- FGF21 outperforms GDF15 in pediatric MD: https://pubmed.ncbi.nlm.nih.gov/34991945/
+- GDF15 and FGF21 in pediatric MH: https://pubmed.ncbi.nlm.nih.gov/38180987/
+- Diagnostic value FGF21 GDF15 vs muscle: https://pubmed.ncbi.nlm.nih.gov/32857451/
+- FGF-21 for muscle MD: https://pubmed.ncbi.nlm.nih.gov/21820356/
+- FGF21 for translation/mtDNA: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5270510/
+- Metabolomes in MD/IBM: https://pubmed.ncbi.nlm.nih.gov/30373890/
+- Lipidomic in MD: https://pubmed.ncbi.nlm.nih.gov/29627572/
+- MitomiRs emerging: https://pubmed.ncbi.nlm.nih.gov/40352788/
+- Brain MRS in MELAS: https://pubmed.ncbi.nlm.nih.gov/33951347/
+- Proteomic metabolomic in MELAS: https://pubmed.ncbi.nlm.nih.gov/33463543/
+- Low citrulline in Leigh: https://pubmed.ncbi.nlm.nih.gov/20472868/
+- Free-thiamine in Leigh: https://pubmed.ncbi.nlm.nih.gov/26657515/
+- Primary/secondary distinction: https://pubmed.ncbi.nlm.nih.gov/27587988/
+- Interferon in PMD: https://pubmed.ncbi.nlm.nih.gov/39320038/
+- Biomarkers MD in ASD: https://pubmed.ncbi.nlm.nih.gov/38703861/
+- Expanding biomarkers MD: https://pubmed.ncbi.nlm.nih.gov/32851462/

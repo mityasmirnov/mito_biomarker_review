@@ -1,0 +1,83 @@
+### Key Points
+- Research suggests that biofluid biomarkers like growth differentiation factor 15 (GDF-15) and fibroblast growth factor 21 (FGF-21) show promise for identifying mitochondrial diseases, with GDF-15 often performing better in terms of sensitivity and specificity across various conditions.
+- Evidence leans toward metabolites such as lactate and pyruvate being useful for initial screening, though their performance can vary due to factors like sample handling and non-specific elevations in other disorders.
+- For specific syndromes like MELAS, biomarkers including GDF-15 and FGF-21 appear elevated more consistently, but results for severity estimation and progression monitoring remain mixed, highlighting ongoing debates about their reliability in longitudinal assessments.
+- Protein biomarkers generally outperform traditional metabolites in diagnostic accuracy, yet no single marker achieves perfect sensitivity and specificity, suggesting a panel approach may balance perspectives from different studies.
+
+### Overview of Biomarker Types and Origins
+Biofluid biomarkers for mitochondrial diseases primarily fall into metabolite and protein categories, originating from disrupted oxidative phosphorylation, altered amino acid metabolism, or stress responses in affected tissues. Metabolites like lactate arise from impaired energy production, while proteins such as GDF-15 reflect cytokine-mediated signaling from mitochondrial stress. Analytical methods include enzymatic assays and mass spectrometry for metabolites, and ELISA for proteins, typically measured in serum, plasma, urine, or CSF.
+
+### Performance in Diagnosis and Screening
+Studies indicate GDF-15 offers high diagnostic utility with sensitivities around 77-89% and specificities of 86-92%, making it suitable for screening patients with suspected mitochondrial involvement. FGF-21 performs well for muscle-manifesting conditions, with sensitivities of 41-68% but strong specificity (89-92%). Traditional metabolites like lactate show variable sensitivities (15-100%), limiting their standalone use but supporting initial triage.
+
+### Applications in Severity and Progression
+It seems likely that GDF-15 and FGF-21 correlate with disease severity in cohorts with conditions like MELAS, though evidence for progression tracking is limited and inconsistent across studies. For example, elevations may reflect acute events but not always long-term changes, prompting cautious interpretation in monitoring.
+
+### Comparison Across Conditions
+In general mitochondrial diseases, GDF-15 often has superior AUC (0.96-0.99) compared to FGF-21 (0.75-0.91). For syndromes like MELAS or mtDNA deletions, both proteins are elevated, but metabolites like the lactate:pyruvate ratio may aid differentiation from non-mitochondrial myopathies.
+
+---
+
+### Comprehensive Survey of Biofluid Biomarkers for Mitochondrial Diseases
+
+Mitochondrial diseases encompass a heterogeneous group of disorders arising from defects in oxidative phosphorylation, affecting energy production across multiple organ systems. These conditions present diagnostic challenges due to variable clinical manifestations, ranging from generalized multisystem involvement to specific syndromes like mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes (MELAS), myoclonic epilepsy with ragged red fibers (MERRF), Leber's hereditary optic neuropathy (LHON), and chronic progressive external ophthalmoplegia (CPEO). Biofluid biomarkers, derived from accessible samples such as serum, plasma, urine, and cerebrospinal fluid (CSF), offer a non-invasive means to support diagnosis, screening, severity assessment, and progression monitoring. This survey synthesizes evidence from recent reviews and studies, emphasizing biomarker types by molecular origin (e.g., proteins from cytokine responses, metabolites from altered energy pathways), analytical methods, performance metrics, cohort details, and applications. Excluding genetic (e.g., mtDNA mutations) and imaging (e.g., MRI) markers, the focus is on biofluid-derived indicators. While no biomarker is universally perfect, panels combining multiple types enhance utility, addressing limitations in sensitivity and specificity.
+
+#### Metabolite Biomarkers
+Metabolites represent the most traditional class of biomarkers, originating from disruptions in glycolysis, the tricarboxylic acid cycle, and amino acid metabolism due to mitochondrial dysfunction. They are typically measured in blood-derived fluids or urine and reflect systemic lactic acidosis or altered substrate handling.
+
+- **Lactate**: This metabolite accumulates from impaired pyruvate oxidation, serving as a hallmark of energy deficit. Analytical methods include enzymatic assays (e.g., lactate oxidase) or mass spectrometry (MS) in blood, plasma, serum, or CSF. Performance varies widely: sensitivity 15.1-100%, specificity 83-100%, AUC 0.6-0.994. Cohorts: Across 27 studies totaling 935 blood and 204 CSF samples, including mixed mitochondrial diseases (e.g., 35 patients in one cohort), MELAS (31 patients, 50 controls), Leigh syndrome (117 patients), and RRM2B-associated depletion (9 patients). Biofluid: Blood, plasma, serum, CSF. For diagnosis and screening, elevated levels (often >2 mmol/L) indicate dysfunction, especially in MELAS with lactic acidosis; exercise-induced measurements improve utility. However, confounders like sample handling or non-mitochondrial causes (e.g., hypoxia) limit specificity. Evidence for severity estimation is moderate, correlating with symptom burden in some cohorts, but progression analysis is weak due to fluctuation.
+
+- **Pyruvate**: Derived from glycolysis, elevations signal upstream blocks in mitochondrial entry. Methods: Enzymatic assays or MS. Performance: Sensitivity 34.6-88.2%, specificity 81.2-87.2%, AUC 0.62-0.983. Cohorts: 6 studies with 185 blood and 17 CSF samples, e.g., mixed diseases (48 patients) and MELAS (17 patients, 146 controls). Biofluid: Blood, plasma, serum, CSF. Useful for diagnosis, differentiating from pyruvate dehydrogenase deficiency, but low sensitivity restricts screening. Limited data on severity or progression.
+
+- **Lactate:Pyruvate Ratio**: A calculated index reflecting redox imbalance. Methods: Derived from lactate and pyruvate measurements. Performance: Sensitivity 11.5-82.4%, specificity 68.7-100%, AUC 0.71-0.919. Cohorts: 8 studies with 195 blood and 17 CSF samples, e.g., mixed diseases (35 patients) and RRM2B depletion (3 patients). Biofluid: Blood, serum, CSF. Aids diagnosis by highlighting mitochondrial-specific issues; less effective for screening or progression due to variability.
+
+- **Creatine Kinase (CK)**: Indicates muscle breakdown from energy failure. Methods: Enzymatic assays. Performance: Sensitivity 22.2-34.1%, specificity 73.7-97%, AUC 0.56-0.609. Cohorts: 6 studies with 196 serum samples, mixed diseases. Biofluid: Serum. Low sensitivity limits diagnosis; occasional use in severity for myopathic forms.
+
+- **Amino Acids (e.g., Alanine, Proline)**: From transamination imbalances. Methods: MS or chromatography. Performance: Variable; alanine sensitivity ~75%, specificity 87.2% in one study. Cohorts: General mitochondrial cohorts. Biofluid: Plasma, serum. Supportive for diagnosis in aminoacidurias; limited for progression.
+
+- **Organic Acids and Acylcarnitines**: Reflect fatty acid oxidation defects. Methods: Tandem MS. Performance: Low overall; specific patterns in urine for screening. Cohorts: Pediatric cohorts common. Biofluid: Urine, plasma. Used for initial screening in suspected defects; poor for general severity.
+
+- **Other Metabolites (from Metabolomics)**: Includes sphingomyelins, phosphatidylcholines. Methods: NMR or MS. Performance: Emerging; high sensitivity in targeted studies. Cohorts: LHON, MELAS. Biofluid: Blood, urine. Promising for diagnosis and progression via signatures.
+
+#### Protein Biomarkers
+Proteins often originate from stress-induced cytokine release, measured in serum or plasma via immunoassays.
+
+- **Fibroblast Growth Factor 21 (FGF-21)**: A cytokine from muscle/liver stress. Methods: ELISA. Performance: Sensitivity 41-68.5%, specificity 89-92%, AUC 0.75-0.91; better for mtDNA deletions/translation defects. Cohorts: e.g., 123 MD patients (MELAS n=28, MERRF n=6, etc.), 35 controls; another 54 adults with MD, 20 non-MD, 66 healthy. Biofluid: Serum, plasma. Strong for diagnosing muscle-manifesting diseases; correlates with severity (e.g., RC-deficient fibers); mixed for progression, no clear link in m.3243A>G.
+
+- **Growth Differentiation Factor 15 (GDF-15)**: Stress cytokine. Methods: ELISA. Performance: Sensitivity 77.8-89%, specificity 86-92%, AUC 0.94-0.99; outperforms FGF-21. Cohorts: e.g., 48 MD patients, 146 controls; 123 MD (MELAS, etc.), 35 controls; 34 fatigue patients (7 PMM, 22 CFS). Biofluid: Serum, plasma. Excellent for diagnosis across conditions; correlates with severity (e.g., EDSS in MS-like overlaps); useful for progression in TK2 deficiency, declining with therapy.
+
+- **Plasma Gelsolin**: Reinforces other markers. Methods: Not detailed. Performance: Enhances FGF-21/GDF-15. Cohorts: Mitochondrial cohorts. Biofluid: Plasma. Diagnostic adjunct.
+
+#### Lipid Biomarkers
+Lipids are less studied but emerge in metabolomics as indicators of membrane alterations.
+
+- **Sphingomyelins and Phosphatidylcholines**: From lipid peroxidation. Methods: MS. Performance: High in targeted AUCs. Cohorts: LHON cohorts. Biofluid: Blood. Emerging for diagnosis; potential in progression via oxidative stress tracking.
+
+#### Other Biomarkers
+- **Cell-Free Circulating mtDNA (ccf-mtDNA)**: Damage marker. Methods: dd-PCR. Performance: Sensitivity 25%, specificity 94%, AUC 0.61. Cohorts: 123 MD, 35 controls. Biofluid: Plasma. Limited diagnostic value; possible for acute events.
+
+- **MicroRNAs**: Regulatory molecules. Methods: Sequencing. Performance: Patterns in MELAS/MERRF. Cohorts: Cybrid cells, patient sera. Biofluid: Serum. Emerging for progression.
+
+#### Comparative Performance Table
+| Biomarker | Type | Method | Sensitivity (%) | Specificity (%) | AUC | Key Cohorts (Size/Conditions) | Biofluid | Primary Use |
+|-----------|------|--------|-----------------|-----------------|-----|-------------------------------|----------|-------------|
+| Lactate | Metabolite | Enzymatic/MS | 15-100 | 83-100 | 0.6-0.994 | 935 blood samples; MELAS, Leigh | Blood/CSF | Diagnosis/Screening |
+| Pyruvate | Metabolite | Enzymatic/MS | 35-88 | 81-87 | 0.62-0.983 | 185 blood; mixed MD | Blood/CSF | Diagnosis |
+| L/P Ratio | Metabolite | Calculated | 12-82 | 69-100 | 0.71-0.919 | 195 blood; mixed MD | Blood/CSF | Diagnosis |
+| CK | Metabolite | Enzymatic | 22-34 | 74-97 | 0.56-0.609 | 196 serum; mixed MD | Serum | Severity (myopathic) |
+| FGF-21 | Protein | ELISA | 41-69 | 89-92 | 0.75-0.91 | 123 MD (MELAS etc.), 35 controls | Serum/Plasma | Diagnosis/Severity |
+| GDF-15 | Protein | ELISA | 78-89 | 86-92 | 0.94-0.99 | 48 MD, 146 controls; 123 MD | Serum/Plasma | Diagnosis/Severity/Progression |
+| ccf-mtDNA | Other | dd-PCR | 25 | 94 | 0.61 | 123 MD, 35 controls | Plasma | Limited diagnosis |
+
+In summary, while metabolites provide foundational screening, proteins like GDF-15 offer superior diagnostic and monitoring potential. Future research should validate panels in larger, longitudinal cohorts to address controversies in progression tracking.
+
+### Key Citations
+-  Biomarkers of mitochondrial disorders - PMC - PubMed Central - https://pmc.ncbi.nlm.nih.gov/articles/PMC10903091/
+-  FGF21 is a biomarker for mitochondrial translation and mtDNA maintenance disorders - PMC - https://pmc.ncbi.nlm.nih.gov/pmc/articles/PMC5270510/
+-  Growth differentiation factor 15 as a useful biomarker for mitochondrial disorders - PMC - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5057301/
+-  Serum GDF-15 Levels Accurately Differentiate Patients with Primary Mitochondrial Myopathy... - https://www.mdpi.com/2077-0383/12/6/2435
+-  Growth Differentiation Factor 15 is a potential biomarker of therapeutic response for TK2 deficient myopathy - https://www.nature.com/articles/s41598-020-66940-8
+-  Blood biomarkers for assessment of mitochondrial dysfunction - https://www.sciencedirect.com/science/article/pii/S1567724921001483
+-  Expanding and validating the biomarkers for mitochondrial diseases - https://pmc.ncbi.nlm.nih.gov/articles/PMC7524861/
+-  Monitoring clinical progression with mitochondrial disease biomarkers - https://academic.oup.com/brain/article/140/10/2530/4061504
+-  Biomarkers of mitochondrial disorders - PMC - https://pmc.ncbi.nlm.nih.gov/articles/PMC10903091/

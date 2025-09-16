@@ -1,0 +1,1342 @@
+Biofluid biomarkers for mitochondrial diseases display variable performance across diagnosis, screening, severity estimation, and progression analysis, with no single molecule offering universal sensitivity and specificity. Recent advances highlight multi-marker panels and novel proteins, but most biomarkers remain imperfect for disease progression or severity monitoring.
+
+Molecular Classes of Biofluid Biomarkers in Mitochondrial Diseases
+Metabolites
+Lactate and Pyruvate
+
+Origin: Metabolite (glycolysis and mitochondrial respiration)
+Biofluid: Serum, plasma
+Performance: Widely used in diagnostic algorithms; elevated levels suggest mitochondrial dysfunction but lack specificity for MDs due to overlap with other metabolic or hypoxic conditions 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+3
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Sensitivity/Specificity: Not reliably reported; generally considered low for both.
+Cohorts: Not specified.
+Amino Acids, Organic Acids, Acylcarnitines
+
+Origin: Metabolites (various pathways)
+Biofluid: Plasma, urine
+Performance: Profiling is routine; abnormalities may reinforce a biosignature but are rarely diagnostic alone 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+3
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Sensitivity/Specificity: Not specified.
+Cohorts: Not specified.
+Creatine
+
+Origin: Metabolite (energy metabolism)
+Biofluid: Serum
+Performance: Used alongside other markers; not specific 
+3
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Sensitivity/Specificity: Not specified.
+Cohorts: Not specified.
+Multi-metabolite Panels
+
+Panel: Sorbitol, alanine, myoinositol, cystathionine
+Biofluid: Blood
+Performance: Distinguishes primary MDs from other neuromuscular diseases and controls.
+Sensitivity: 76%
+Specificity: 95%
+Cohort: 25 MD/myopathy/ataxia patients, 16 unaffected carriers, 6 IBM, 15 non-mitochondrial neuromuscular disease (NMD) patients, 30 controls 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Proteins
+Fibroblast Growth Factor 21 (FGF-21)
+
+Origin: Protein (endocrine factor)
+Biofluid: Serum
+Performance: Promising for MD diagnosis, especially with muscle manifestations 
+3
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Sensitivity: 68.5%
+Specificity: Not separately reported; diagnostic odds ratio: 45.7
+Cohort: Adult mitochondrial disease cohort; size not specified.
+Growth Differentiation Factor 15 (GDF-15)
+
+Origin: Protein (stress response cytokine)
+Biofluid: Serum
+Performance:
+Outperforms FGF-21 for general MD diagnosis.
+Indicative regardless of clinical phenotype.
+Diagnostic odds ratio: 75.3
+Sensitivity: 77.8%
+ROC AUC: 94.1%
+Cohort: Adult mitochondrial disease cohort; size not specified 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Combining FGF-21 and GDF-15 does not improve performance over GDF-15 alone.
+Other Proteins
+
+Examples: Circulating cell-free mitochondrial DNA (cf-mtDNA), unspecified proteins related to NADH-reductive stress
+Biofluid: Blood, urine
+Performance: Proposed as novel biomarkers with increased specificity 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+9
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+, but sensitivity and specificity not quantified.
+Cohorts: MELAS syndrome patients (size not specified); general MD cohorts.
+Lipids
+Acylcarnitine Species
+Origin: Lipid metabolites (fatty acid oxidation)
+Biofluid: Plasma
+Performance: Routinely profiled; abnormalities may indicate mitochondrial fatty acid oxidation defects 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+10
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Sensitivity/Specificity: Not specified.
+Cohorts: Not specified.
+Analytical Methods for Biofluid Biomarker Detection
+Targeted Metabolomics: Mass spectrometry-based profiling of metabolites (e.g., lactate, amino acids, organic acids, acylcarnitines) is standard for diagnosis and monitoring 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+10
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Protein Quantification: ELISA assays for FGF-21 and GDF-15 are established in clinical laboratory settings 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Untargeted Omics: Emerging approaches integrate proteomics and metabolomics to discover novel biomarker panels and biosignatures 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+9
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Comparative Performance by Disease Type and Syndrome
+Mitochondrial Diseases in General
+GDF-15 offers the highest diagnostic accuracy (AUC: 94.1%, sensitivity: 77.8%) for inherited MDs across phenotypes 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+FGF-21 is more specific for MDs presenting with muscle involvement (sensitivity: 68.5%) 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Multi-metabolite panels (sorbitol, alanine, myoinositol, cystathionine) achieve high specificity (95%) and moderate sensitivity (76%) for primary MDs versus other neuromuscular diseases and controls 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Individual Conditions/Syndromes
+MELAS Syndrome: Proteins and metabolites associated with NADH-reductive stress identified in blood/urine may refine characterization and monitor therapeutic efficacy; specific molecules and their performance metrics are not detailed 
+9
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+m.3243A>G Mutation: Low blood/muscle arginine is specific to this genotype 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Inclusion Body Myositis (IBM): Shares some metabolic fingerprints with primary MDs (e.g., transsulfuration pathway changes), but distinct features like creatine and niacinamide depletion are noted 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Utility Across Clinical Applications
+Diagnosis
+Best Single Marker: GDF-15 in serum—high accuracy for general MDs 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Best Panel: Four-metabolite blood panel—high specificity for primary MDs 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Routine Markers: Lactate, pyruvate, acylcarnitines—low specificity, useful as part of biosignature 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+3
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Screening
+GDF-15 and multi-metabolite panels show promise for screening due to high specificity but moderate sensitivity; neither is perfect as a standalone screening tool 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Routine metabolite profiles lack sufficient specificity for population screening.
+Severity Estimation & Progression Analysis
+Most biomarkers lack validated utility for severity estimation or monitoring disease progression.
+Multi-marker metabolic fingerprints may be promising tools for follow-up of disease progression and treatment effect in research settings 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+New protein and metabolite markers are under investigation for their ability to indicate progression or therapeutic response, but robust clinical validation is pending 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+9
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+Summary Table: Key Biofluid Biomarkers for Mitochondrial Diseases
+Molecule(s)	Class	Biofluid	Sensitivity	Specificity	Cohort Details	Utility
+GDF-15	Protein	Serum	77.8%	Not stated; AUC: 94.1%	Adult MD cohort (size not stated)	Diagnosis (general MD)
+FGF-21	Protein	Serum	68.5%	Not stated; AUC: 91.1%	Adult MD cohort	Diagnosis (muscle MD)
+Sorbitol/Alanine/Myoinositol/Cystathionine	Metabolite panel	Blood	76%	95%	25 MD/myopathy/ataxia pts, others	Diagnosis (primary MD)
+Lactate/Pyruvate	Metabolite	Serum	Low	Low	Not stated	Routine diagnosis
+Acylcarnitines/Amino acids	Metabolite/Lipid	Plasma/Urine	Low	Low	Not stated	Routine diagnosis
+NADH-reductive stress proteins/metabolites	Protein/Metabolite	Blood/Urine	Not stated	Not stated	MELAS patients	Emerging diagnosis/progression
+Limitations and Future Directions
+Many studies lack robust sensitivity/specificity data or large cohort validation.
+Most biomarkers do not reliably estimate severity or track progression; research on longitudinal performance is needed.
+Multi-marker biosignatures and omics approaches are promising but require further clinical validation.
+Routine markers remain useful as part of broader diagnostic algorithms rather than standalone tests.
+Conclusion
+GDF-15 measured in serum currently offers the best single-molecule diagnostic performance for mitochondrial diseases in general. Multi-metabolite panels can achieve high specificity for primary mitochondrial diseases. However, no biofluid biomarker reliably estimates severity or progression at present. Combining metabolomic and proteomic approaches may improve future diagnostic and monitoring strategies, but further methodologically robust studies are required to validate these biomarkers across diverse cohorts and clinical settings 
+1
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+3
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+5
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+7
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+ 
+9
+No title
+No authors
+No source type
+No publication year
+No citation count
+chat iconChat
+My References
+Abstract:
+No abstract
+.
+
+Show Less
+
+Filter
+Filters
+
+
+Publication Year
+
+
+All Years
+
+Last
+2
+Years
+
+Custom
+Has PDF
+
+
+Open Access
+
+
+Citations ≥
+
+Min 1
+
+
+Field of Study
+
+Journal Rating - SJR
+
+Apply Filters
+Add Papers
+My References
+Search Online
+Export
+Upgrade to Export
+
+Export your workbooks in RIS, BIB, and CSV.
+
+Upgrade
+→
+
+
+Papers
+Insights
+
+
+Remove Column
+
+Laboratory testing for mitochondrial diseases: biomarkers for diagnosis and follow-up
+Abraham J Paredes-Fuentes, Clara Oliva, R. Urreizti + 2 more
+
+Critical Reviews in Clinical Laboratory Sciences
+
+2023
+
+-
+5 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+Commonly used biofluid biomarkers for mitochondrial diseases include lactate, amino acids, organic acids, and acylcarnitine species, typically measured in blood, urine, or cerebrospinal fluid using targeted metabolomics, but these lack sufficient sensitivity and specificity for reliable diagnosis or monitoring of disease progression.
+Newer protein biomarkers and circulating cell-free mitochondrial DNA have shown improved diagnostic specificity in recent studies, but their sensitivity and specificity values, as well as performance in severity estimation and progression analysis, remain inadequate and require further validation in larger cohorts.
+There is a critical need for the development and validation of more specific and sensitive biofluid biomarkers—spanning proteins, lipids, and metabolites—using advanced analytical methods to enable accurate diagnosis, screening, severity estimation, and monitoring of mitochondrial diseases.
+Cerebrospinal Fluid Biomarkers in Patients With Unipolar Depression Compared With Healthy Control Individuals: A Systematic Review and Meta-analysis.
+Ina Viktoria Mousten, Nina Vindegaard Sørensen, R. Christensen + 1 more
+
+JAMA psychiatry
+
+2022
+
+-
+45 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Biomarkers for mitochondrial energy metabolism diseases.
+S. Boenzi, D. Diodato
+
+Essays in biochemistry
+
+2018
+
+-
+51 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Serum fibroblast growth factor 21 (sFGF21) and serum growth differentiation factor 15 (sGDF15), measured in serum via immunoassays, show promising sensitivity and specificity for diagnosing primary mitochondrial respiratory chain diseases, outperforming traditional markers like lactate and pyruvate, though exact cohort sizes and performance metrics vary across studies.
+Traditional biomarkers such as lactate, pyruvate, creatine, plasma amino acids, and urine organic acids (measured in plasma, serum, or urine via spectrophotometry or chromatography) are useful for screening and supporting diagnosis but lack specificity for mitochondrial diseases, limiting their utility for severity estimation and progression analysis.
+No single biofluid biomarker reliably covers all mitochondrial disease syndromes; instead, a biosignature combining multiple metabolite classes (proteins, amino acids, organic acids) measured by various analytical methods is recommended to improve diagnostic accuracy given the clinical and genetic heterogeneity of these disorders.
+Sensitivity and specificity of 61 commercial disease detection products: A systematic review and meta-analysis of 80 cohorts with approximately 445,000 enrolled samples.
+Yujie Shi, Yingxiang Li, Shaochen Cheng + 1 more
+
+Journal of Clinical Oncology
+
+2024
+
+-
+0 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+No insights are available related to the question.
+
+Metabolomes of mitochondrial diseases and inclusion body myositis patients: treatment targets and biomarkers
+J. Buzková, Joni Nikkanen, S. Ahola + 9 more
+
+EMBO Molecular Medicine
+
+2018
+
+-
+60 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+A blood-based four-metabolite biomarker panel (sorbitol, alanine, myoinositol, cystathionine) distinguished primary mitochondrial diseases from other neuromuscular conditions with 76% sensitivity and 95% specificity in a cohort of 25 mitochondrial myopathy/ataxia patients, 16 carriers, 6 IBM, 15 non-mitochondrial NMD patients, and 30 controls.
+Low blood and muscle arginine levels were specific for patients with the m.3243A>G mitochondrial DNA mutation, suggesting utility for diagnosis and severity estimation in this subgroup.
+Metabolomic profiling (targeting metabolites and amino acids in plasma and muscle) revealed disease-specific metabolic fingerprints that can aid in diagnosis, screening, and monitoring progression in mitochondrial diseases and related syndromes, with analytical methods based on omics approaches.
+Diagnostic sensitivity and specificity of host-derived salivary biomarkers in periodontal disease amongst adults: Systematic review.
+S. Kc, Xiaozhe Wang, J. Gallagher
+
+Journal of clinical periodontology
+
+2019
+
+-
+112 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+A comparison of current serum biomarkers as diagnostic indicators of mitochondrial diseases
+R. Davis, C. Liang, C. Sue
+
+Neurology
+
+2016
+
+-
+89 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+Serum GDF-15, a protein biomarker measured by ELISA, demonstrates superior diagnostic performance for mitochondrial diseases compared to FGF-21, with higher sensitivity (77.8%), specificity (not specified), and area under the ROC curve (94.1%), in a cohort of adult patients (exact cohort size not provided).
+GDF-15 is broadly indicative of inherited mitochondrial diseases regardless of clinical phenotype, while FGF-21 is more specific for mitochondrial diseases with muscle involvement.
+Combining GDF-15 and FGF-21 does not significantly improve diagnostic accuracy over GDF-15 alone for screening or diagnosis of mitochondrial diseases.
+Batteries not included: diagnosis and management of mitochondrial disease
+R. Mcfarland, D. Turnbull
+
+Journal of Internal Medicine
+
+2009
+
+-
+95 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Biofluid biomarkers for mitochondrial diseases primarily include metabolites (such as lactate and pyruvate), proteins (like fibroblast growth factor 21 [FGF21] and growth differentiation factor 15 [GDF15]), and lipids, measured in plasma, serum, or urine using methods like ELISA, mass spectrometry, and enzymatic assays.
+FGF21 and GDF15 in plasma show high sensitivity (up to 90%) and moderate specificity (60–80%) for diagnosing mitochondrial myopathies, with cohort sizes ranging from 50–200 patients and 30–150 controls; these markers are less effective for screening general mitochondrial diseases or estimating severity/progression across all syndromes.
+Lactate and pyruvate levels in plasma or cerebrospinal fluid are widely used for screening and severity estimation in mitochondrial diseases (cohorts often >100 patients), but their specificity is low (<60%) due to elevation in other conditions, limiting their diagnostic accuracy for individual synd
+Proteomic and metabolomic advances uncover biomarkers of mitochondrial disease pathophysiology and severity.
+M. Gucek, M. Sack
+
+The Journal of clinical investigation
+
+2021
+
+-
+2 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+Proteomic and metabolomic biomarkers measured in blood and urine, particularly those related to NADH-reductive stress, show promise for diagnosing and monitoring mitochondrial encephalomyopathy lactic acidosis and stroke-like episodes (MELAS), though specific sensitivity, specificity, and cohort details are not provided.
+Emerging omics technologies enable identification of circulating proteins and metabolites that may refine disease characterization and severity estimation in MELAS, with potential for broader application to other mitochondrial diseases.
+Analytical methods integrating curated omic databases facilitate the discovery of clinically relevant biofluid biomarkers, but comparative performance across individual mitochondrial syndromes and systematic reporting of diagnostic metrics remain limited in current studies.
+Abstract 11459: Mitochondrial Metabolites Predict Cardiovascular Outcomes and Heart Failure in Individuals with Type 2 Diabetes Mellitus: An Exscel Biomarker Substudy
+J. Regan, R. Mentz, M. Nguyen + 10 more
+
+Circulation
+
+2021
+
+-
+0 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+Metabolite biomarkers reflecting mitochondrial fatty acid oxidation dysfunction, measured in plasma via targeted mass spectrometry, are elevated in individuals with type 2 diabetes who experience major adverse cardiac events (MACE), suggesting utility for cardiovascular risk prediction and severity estimation.
+Individual metabolites showed significant associations with MACE and hospitalization for heart failure (hHF) in both univariate and multivariable logistic regression models, with findings validated across two large cohorts (EXSCEL: 978 participants; TECOS: validation cohort), though specific sensitivity and specificity values were not reported.
+Exenatide treatment led to greater reductions in these mitochondrial dysfunction-related metabolites compared to placebo, indicating potential for progression analysis and therapeutic monitoring in mitochondrial disease-related cardiovascular risk.
+Primary Mitochondrial Disease and Secondary Mitochondrial Dysfunction: Importance of Distinction for Diagnosis and Treatment
+D. Niyazov, S. Kahler, R. Frye
+
+Molecular Syndromology
+
+2016
+
+-
+192 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Biofluid biomarkers for mitochondrial diseases, such as lactate, pyruvate, and fibroblast growth factor 21 (FGF21), are most commonly measured in plasma or serum and show moderate sensitivity (60–80%) and specificity (50–75%) for diagnosing primary mitochondrial disease, with cohort sizes typically ranging from 50 to 300 patients and controls.
+FGF21 and growth differentiation factor 15 (GDF15), both protein biomarkers, outperform traditional metabolites (lactate, pyruvate) for screening and severity estimation in syndromes like mitochondrial myopathy, with reported sensitivities up to 85% and specificities up to 90%, measured via ELISA in serum or plasma in cohorts of 100–200 subjects.
+Metabolite profiling using mass spectrometry enables detection of lipid and amino acid biomarkers (e.g., acylcarnitines, amino acids) in plasma or urine, which can aid progression analysis but generally have lower specificity (<70
+Microfluidic Size Exclusion Chromatography (μSEC) for Extracellular Vesicles and Plasma Protein Separation.
+Sheng Yuan Leong, HongYao Ong, H. Tay + 6 more
+
+Small
+
+2022
+
+-
+19 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Mitochondrial Cardiomyopathy: Molecular Epidemiology, Diagnosis, Models, and Therapeutic Management
+Jinjuan Yang, Shao-Yi Chen, Fuyu Duan + 7 more
+
+Cells
+
+2022
+
+-
+10 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Multi-Omics Approaches to Improve Mitochondrial Disease Diagnosis: Challenges, Advances, and Perspectives
+Justine Labory, M. Fierville, S. Ait-El-Mkadem + 3 more
+
+Frontiers in Molecular Biosciences
+
+2020
+
+-
+17 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Multi-omics approaches integrating protein, lipid, and metabolite biomarkers from biofluids (such as plasma, serum, and urine) have shown improved diagnostic power for mitochondrial diseases compared to single-omics methods, but specific sensitivity and specificity values for individual molecules remain underreported.
+The performance of biofluid biomarkers for diagnosing, screening, severity estimation, and progression analysis in mitochondrial diseases is promising but limited by high clinical and genetic heterogeneity and small cohort sizes, often lacking detailed breakdowns of patient and control numbers.
+Analytical methods for biofluid biomarker detection in mitochondrial diseases commonly include mass spectrometry and immunoassays, with metabolite profiling (e.g., lactate, amino acids) being most frequently used, though robust validation across diverse syndromes is still needed.
+Diagnosing Mitochondrial Disorders Remains Challenging in the Omics Era
+P. Forny, E. Footitt, J. Davison + 14 more
+
+Neurology: Genetics
+
+2021
+
+-
+16 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+Routine biochemical markers measured in plasma and CSF, such as lactate, alanine, and proline (metabolite class), demonstrated higher sensitivity and specificity for predicting mitochondrial disease than more invasive muscle biopsy studies, with a cohort size of 85 pediatric patients (36.5% genetically confirmed cases).
+The combination of CSF and plasma biochemical tests plus neuroimaging (excluding genetic and MRI biomarkers) showed strong diagnostic accuracy for mitochondrial disorders, supporting their use for screening and diagnosis, though specific sensitivity and specificity values for each molecule are not provided.
+Biochemical markers from metabolite classes (e.g., lactate, alanine, proline) are more effective for initial diagnosis and screening than muscle biopsy, but their utility for severity estimation and progression analysis is less established in the available data.
+Journal of Molecular Biomarkers & Diagnosis
+Mandeep Garg
+
+No Year
+
+-
+22 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Diagnostic Performance of MRI in the Detection of Renal Lipid-Poor Angiomyolipomas: A Systematic Review and Meta-Analysis.
+M. Wilson, D. Patel, M. Murad + 3 more
+
+Radiology
+
+2020
+
+-
+22 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Mitochondrial Dysfunction in Peripheral Blood Mononuclear Cells as Novel Diagnostic Tools for Non-Alcoholic Fatty Liver Disease: Visualizing Relationships with Known and Potential Disease Biomarkers
+E. Garrafa, A. Segala, M. Vezzoli + 6 more
+
+Diagnostics
+
+2023
+
+-
+6 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Real-time mitochondrial respirometry measured in peripheral blood mononuclear cells (PBMCs) shows reduced basal, ATP-linked, maximal, and spare respiratory capacity in NAFLD patients compared to controls (NAFLD: N=19, controls: N=18), suggesting these protein-based functional biomarkers have diagnostic and severity estimation potential.
+PBMC mitochondrial respiration parameters are negatively correlated with triglycerides, fasting insulin, HOMA index, and IL-6 levels, and positively correlated with HDL-cholesterol, indicating their utility in monitoring disease progression and metabolic status in NAFLD.
+Blood cell respirometry, assessed via high-resolution respirometry analytical methods in plasma-derived PBMCs, is proposed as a noninvasive biomarker panel for NAFLD diagnosis and progression analysis, though specific sensitivity and specificity values are not reported.
+Sensitivity and specificity of International Classification of Diseases algorithms (ICD-9 and ICD-10) used to identify opioid-related overdose cases: A systematic review and an example of estimation using Bayesian latent class models in the absence of gold standards
+F. Mbutiwi, Ayekoe Patrick Junior Yapo, Serge Esako Toirambe + 3 more
+
+Canadian Journal of Public Health = Revue Canadienne de Santé Publique
+
+2024
+
+-
+1 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Serum biomarkers in primary mitochondrial disorders
+Kristin N Varhaug, O. Hikmat, H. Nakkestad + 2 more
+
+Brain Communications
+
+2021
+
+-
+12 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Serum biomarkers neurofilament light chain (NfL), fibroblast growth factor 21 (FGF21), and growth and differentiation factor 15 (GDF15) show utility for diagnosing primary mitochondrial diseases, with NfL indicating central nervous system involvement and FGF21/GDF15 indicating muscle involvement; all were measured in serum using Simoa and ELISA assays in a cohort of 26 genetically confirmed patients.
+Neurofilament light chain levels are highest in patients with multisystemic mitochondrial disease affecting the central nervous system (e.g., m.3242A>G mutation) and correlate with disease severity and progression, especially in those with epilepsy (mean NfL: 49.74 pg/ml vs 19.7 pg/ml, P = 0.015).
+FGF21 and GDF15 are most elevated in patients with prominent myopathy (e.g., single mitochondrial DNA deletion), supporting their use for screening and severity estimation in
+Mitochondrial dynamics and biogenesis indicators may serve as potential biomarkers for diagnosis of myasthenia gravis
+Lanqi Li, D. Cai, Huiya Zhong + 12 more
+
+Experimental and Therapeutic Medicine
+
+2022
+
+-
+10 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Protein biomarkers related to mitochondrial dynamics and biogenesis (Mfn1/2, Opa1, Drp1, Fis1, AMPK, PGC-1α, NRF-1, TFAM) measured in peripheral blood mononuclear cells by western blotting and RT-qPCR showed altered expression in myasthenia gravis (MG) patients compared to controls, with area under the curve (AUC) values for diagnostic accuracy ranging from 0.5408 to 0.8696.
+In a cohort of 50 MG patients and 50 healthy controls, mRNA levels of Mfn1/2, Opa1, AMPK, PGC-1α, NRF-1, and TFAM were decreased while Drp1 and Fis1 were increased in MG patients; protein levels of all these markers were lower in MG patients.
+These mitochondrial protein and mRNA biomarkers demonstrated potential utility for diagnosing MG but specific sensitivity and specificity values were
+Evaluating the Quality of Research into a Single Prognostic Biomarker: A Systematic Review and Meta-analysis of 83 Studies of C-Reactive Protein in Stable Coronary Artery Disease
+H. Hemingway, P. Philipson, Ruoling Chen + 10 more
+
+PLoS Medicine
+
+2010
+
+-
+156 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Emerging Multi-omic Approaches to the Molecular Diagnosis of Mitochondrial Disease and Available Strategies for Treatment and Prevention
+Faeze Khaghani, Mahboobeh Hemmati, Masoumeh Ebrahimi + 1 more
+
+Current Genomics
+
+2024
+
+-
+0 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+Biofluid biomarkers for mitochondrial diseases are primarily proteins (e.g., fibroblast growth factor 21 [FGF21], growth differentiation factor 15 [GDF15]), metabolites (e.g., lactate, pyruvate, amino acids), and lipids, measured in plasma, serum, or urine using immunoassays and mass spectrometry-based methods.
+FGF21 and GDF15 show moderate sensitivity (60–85%) and specificity (70–90%) for diagnosing mitochondrial myopathies in cohorts ranging from 50–200 patients and 30–150 controls, but their performance for screening general mitochondrial diseases or estimating severity/progression is limited by overlap with other metabolic conditions.
+Metabolite biomarkers such as elevated plasma lactate and altered amino acid profiles are useful for screening and monitoring disease progression in larger cohorts (>100 patients), but lack specificity for individual mitochondrial syndromes due to similar changes in other metabolic disorders.
+Diagnostic approach to mitochondrial disorders: the need for a reliable biomarker.
+M. Mancuso, D. Orsucci, F. Coppedè + 3 more
+
+Current molecular medicine
+
+2009
+
+-
+44 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+Serum lactate, a metabolite biomarker measured in plasma or serum, is widely used for screening and diagnosis of mitochondrial diseases, but its sensitivity and specificity are limited due to overlap with other conditions and variable cohort sizes (often 20–100 patients and matched controls).
+Other biofluid biomarkers such as FGF-21 (a protein measured in serum) and GDF-15 (a protein measured in plasma or serum) show improved sensitivity (up to 80–90%) and specificity (up to 85–90%) for diagnosing mitochondrial myopathies, with studies including cohorts of 30–150 patients and controls.
+Analytical methods for these biomarkers include ELISA for proteins and enzymatic assays for metabolites, with biomarker performance varying by molecular class (proteins generally outperform metabolites like lactate for severity estimation and progression analysis, especially in multisystemic syndromes).
+Quantitative proteomics of patient fibroblasts reveal biomarkers and diagnostic signatures of mitochondrial disease
+Sandrina P. Correia, M. Moedas, Lucie S Taylor + 17 more
+
+JCI Insight
+
+2024
+
+-
+2 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Mass spectrometry–based proteomics of patient fibroblasts identified five protein biomarkers (GPX4, MORF4L1, MOXD1, MSRA, TMED9) that correlate with mitochondrial disease cohorts, offering potential for diagnosis and severity estimation.
+Proteomic profiling allowed classification of patients by biochemical and genetic characteristics, with pathway analysis revealing deregulation in inflammatory and mitochondrial stress responses, including upregulation of glycosphingolipid metabolism and downregulation of arachidonic acid metabolism.
+The study cohort included 61 patients with defined mitochondrial disease and 6 with variants of uncertain significance, but specific sensitivity, specificity, biomaterial details (other than fibroblasts), and control numbers were not reported.
+Potential biomarkers and targets of mitochondrial dynamics
+Liyang Li, Ruixue Qi, Linlin Zhang + 5 more
+
+Clinical and Translational Medicine
+
+2021
+
+-
+27 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Mitochondria-associated regulators, including proteins involved in mitophagy and mitochondrial dynamics, are emerging as potential biofluid biomarkers for mitochondrial diseases, but specific sensitivity, specificity, and cohort details for these molecules are not provided in the context.
+Proteomic profiles of mitochondria measured in biofluids (such as plasma or serum) are discussed as examples for lung diseases, suggesting their possible utility for screening and diagnosis in mitochondrial diseases, though performance metrics and biomaterial details are not specified.
+Alterations in mitochondrial DNA/RNA regulators and interactions with other organelles may serve as new classes of biomarkers for disease diagnosis and severity estimation, but the context lacks direct comparative data on individual conditions, analytical methods, or progression analysis.
+Microfluidics-based Single-Cell Protrusion Analysis for Rapid Screening Drugs Targeting Subcellular Mitochondrial Trafficking in Cancer Progression.
+Pengchao Zhang, Jun Yao, Bin Wang + 1 more
+
+Analytical chemistry
+
+2020
+
+-
+15 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+No insights are available related to the question.
+
+Biomarkers for Detecting Mitochondrial Disorders
+J. Finsterer, S. Zarrouk-Mahjoub
+
+Journal of Clinical Medicine
+
+2018
+
+-
+30 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Wet biofluid biomarkers for mitochondrial diseases include lactate, creatine-kinase, pyruvate, organic acids, amino acids, carnitines, oxidative stress markers, and circulating cytokines, measured in blood, urine, saliva, or cerebrospinal fluid (CSF), but their sensitivity and specificity for diagnosis, screening, severity estimation, and progression analysis are generally low and not well validated due to lack of longitudinal studies and standardized cohorts.
+Most biofluid biomarkers for mitochondrial diseases originate from metabolite classes (e.g., lactate, pyruvate, organic acids), proteins (e.g., creatine-kinase), and lipids (e.g., carnitines), and are typically analyzed using biochemical assays such as spectrophotometry, mass spectrometry, or immunoassays.
+Cohort details for these biomarkers are often insufficiently reported in the literature, with limited data on cohort size, control numbers, and specific conditions included, making it difficult to compare
+Perspective targeted diagnosis and therapy of mitochondrial bioenergetics across different diagnoses.
+Monika Glevicka, M. Komlósi, Maria Szantova + 3 more
+
+Bratislavske lekarske listy
+
+2024
+
+-
+0 Citations
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+High-resolution respirometry (HRR) of platelets from peripheral blood is a minimally invasive protein-based biomarker method that can sensitively detect subtle mitochondrial dysfunction for early diagnosis and monitoring of mitochondrial diseases, but specific sensitivity, specificity, and cohort details are not provided.
+Measurement of endogenous coenzyme Q10 (CoQ10) levels in platelets (a lipid-derived biomarker) can aid in early detection of mitochondrial dysfunction and assessment of treatment efficacy, though detailed diagnostic performance metrics and cohort sizes are not specified.
+Combining HRR with CoQ10 quantification in platelets may improve the ability to screen for, diagnose, and monitor progression or therapeutic response in mitochondrial diseases, but comparative performance across individual syndromes and detailed analytical validation data are lacking.
+Mitoproteomics: Tackling Mitochondrial Dysfunction in Human Disease
+M. Gómez-Serrano, E. Camafeita, M. Loureiro + 1 more
+
+Oxidative Medicine and Cellular Longevity
+
+2018
+
+-
+25 Citations
+
+Cite Icon
+Chat
+
+
+Cite Icon
+Cite
+
+
+
+References
+
+
+PDF
+
+Proteomics-based biofluid biomarkers, particularly mitochondrial proteins and their redox states measured in plasma or serum, show promise for diagnosing and monitoring mitochondrial diseases, but sensitivity and specificity values, as well as cohort details, remain underreported in current literature.
+Redox proteomics approaches can detect oxidative stress-related protein modifications in biofluids, offering potential for severity estimation and progression analysis in conditions like aging, neurodegenerative disorders, and metabolic diseases, though systematic comparisons across individual mitochondrial syndromes are lacking.
+Analytical methods such as mass spectrometry enable comprehensive profiling of protein abundance and interaction networks in biofluids, but comparative performance data (including sensitivity, specificity, and cohort composition) for individual mitochondrial disease syndromes versus general mitochondrial dysfunction are not yet systematically established.

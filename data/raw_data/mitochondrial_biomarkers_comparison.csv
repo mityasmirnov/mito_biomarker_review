@@ -1,0 +1,7 @@
+Biomarker_Category,Diagnostic_Strength,Screening_Utility,Progression_Monitoring,Severity_Assessment
+Cytokines (GDF-15/FGF-21),High sensitivity and specificity,Excellent for initial screening,Under investigation,Good correlation with muscle involvement
+Metabolites (Lactate/Alanine),"Moderate sensitivity, high specificity",Good for metabolic screening,Limited utility,Poor correlation with severity
+Structural proteins (NF-L),High sensitivity for neurological involvement,Limited for general screening,Excellent for neurodegeneration,Strong correlation with CNS damage
+Oxidative stress markers,"Variable, condition-dependent",Research applications mainly,Research applications,Variable correlation
+Organic acids (urine),Specific for certain syndromes,Syndrome-specific screening,Limited utility,Limited correlation
+Cell-free mtDNA,Specific for mtDNA disorders,Limited to specific conditions,Promising for MELAS,Correlates with acute events

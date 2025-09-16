@@ -1,0 +1,20 @@
+entry_id,study_reference,biomarker_name,condition,biomaterial,analytical_method,sensitivity,specificity,n_patients,n_controls,age_group,molecular_type,data_source
+E001,Multiple studies,GDF-15,"General MD, best for mtDNA translation defects",Serum/Plasma,ELISA,83.0,92.0,,,Adult > Pediatric,Protein (cytokine),systematic_review_biomarkers
+E002,Multiple studies,FGF-21,"General MD, muscle involvement",Serum/Plasma,ELISA,71.0,88.0,,,Adult = Pediatric,Protein (growth factor),systematic_review_biomarkers
+E003,Multiple studies,CSF Neurofilament Light,"Neurological MD (ME, Leigh, MELAS)",CSF,Simoa/ELISA,90.0,90.0,,,Pediatric (main studies),Protein (structural),systematic_review_biomarkers
+E004,Multiple studies,Serum Neurofilament Light,CNS involvement in MD,Serum/Plasma,Simoa,25.0,94.0,,,Adult = Pediatric,Protein (structural),systematic_review_biomarkers
+E005,Multiple studies,Cell-free circulating mtDNA,"MELAS, mtDNA disorders",Plasma,qPCR,44.0,94.0,,,Adult (main studies),Nucleic acid (mtDNA),systematic_review_biomarkers
+E006,Multiple studies,CSF Lactate,Neurological MD,CSF,Spectrophotometry,88.0,88.0,,,Pediatric (main studies),Small molecule,systematic_review_biomarkers
+E007,Multiple studies,Plasma Lactate,General screening,Plasma,Spectrophotometry,34.0,83.0,,,Adult = Pediatric,Small molecule,systematic_review_biomarkers
+E008,Multiple studies,CSF Alanine,General MD,CSF,Ion exchange chromatography,75.0,76.0,,,Adult = Pediatric,Amino acid,systematic_review_biomarkers
+E009,Multiple studies,Plasma Alanine,General MD,Plasma,Ion exchange chromatography,50.0,76.0,,,Adult = Pediatric,Amino acid,systematic_review_biomarkers
+E010,Multiple studies,Lactate/Pyruvate Ratio,ETC defects,Plasma/CSF,Spectrophotometry,31.0,100.0,,,Adult = Pediatric,Metabolite ratio,systematic_review_biomarkers
+E011,Multiple studies,Creatine (plasma),Severe MD cases,Plasma,Spectrophotometry/LC-MS,27.0,76.0,,,Adult (main studies),Small molecule,systematic_review_biomarkers
+E012,Multiple studies,Malondialdehyde,Oxidative stress in MD,Plasma,Spectrophotometry/HPLC,,,,,Adult (main studies),Lipid (aldehyde),systematic_review_biomarkers
+E013,Multiple studies,Glutathione (reduced),Oxidative stress in MD,Plasma/Erythrocytes,Spectrophotometry,,,,,Adult (main studies),Tripeptide,systematic_review_biomarkers
+E014,Multiple studies,3-Methylglutaconic acid (urine),"Specific syndromes (Barth, ATPase defects)",Urine,GC-MS,11.0,,,,Pediatric (main studies),Organic acid,systematic_review_biomarkers
+E015,Multiple studies,Acylcarnitines,Fatty acid oxidation defects,Plasma,Tandem MS,,,,,Pediatric screening,Lipid derivatives,systematic_review_biomarkers
+E016,Multiple studies,Thiosulfate (EE),Ethylmalonic encephalopathy,Plasma/Urine,HPLC/GC-MS,100.0,95.0,,,Pediatric (infantile EE),Sulfur metabolite,systematic_review_biomarkers
+E017,Multiple studies,Cardiolipin ratios (Barth),Barth syndrome,Platelets/Muscle,LC-MS/MS,100.0,100.0,,,Pediatric/Adult,Phospholipid,systematic_review_biomarkers
+E018,Multiple studies,CoQ10 (plasma),CoQ10 deficiency,Plasma,HPLC-UV/ED,,,,,Adult > Pediatric,Quinone,systematic_review_biomarkers
+E019,Multiple studies,Ubiquinol/ubiquinone ratio,"CoQ10 deficiency, oxidative stress",Plasma,HPLC,,,,,Adult > Pediatric,Redox ratio,systematic_review_biomarkers
