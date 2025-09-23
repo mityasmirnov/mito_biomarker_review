@@ -1,0 +1,7 @@
+Biomarker,Studies (n),Participants (n),Pooled Sensitivity (95% CI),Pooled Specificity (95% CI),DOR (95% CI),AUC (95% CI),Heterogeneity (I²),Source
+GDF-15,7,845,0.83 (0.65-0.92),0.92 (0.84-0.96),52 (13-205),0.94 (0.92-0.96),45-60%,Lin et al. 2020
+FGF-21,5,718,0.71 (0.53-0.84),0.88 (0.82-0.93),18 (6-54),0.90 (0.87-0.92),30-50%,Lin et al. 2020
+Lactate (resting),27,935,0.15-1.00*,0.83-1.00*,Variable,Variable,High (>70%),Shayota et al. 2024
+Lactate Stress Test (LSTA),6,793,0.67 (0.62-0.72),0.93 (0.85-0.97),26.63 (10.99-64.52),0.70 (0.66-0.74),Moderate,El Guessabi et al. 2024
+Lactate Stress Test (LSTR),8,271,0.52 (0.33-0.70),0.94 (0.79-0.99),18.14 (2.99-109.85),0.80 (0.76-0.83),Moderate,El Guessabi et al. 2024
+L:P Ratio,8,195,0.12-0.82*,0.69-1.00*,Variable,Variable,High,Shayota et al. 2024

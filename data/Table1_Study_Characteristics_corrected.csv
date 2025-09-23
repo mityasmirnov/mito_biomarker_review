@@ -1,0 +1,9 @@
+Study,Country,Study Type,Patients (n),Controls (n),Age Range,Biomarkers Studied,QUADAS-2 Score
+Lehtonen et al. 2016,Finland,Case-control,45,44,18-65,"GDF-15, FGF-21",Low risk
+Davis et al. 2016,Australia,Case-control,54,41,16-72,"GDF-15, FGF-21, Lactate",Low risk
+Kalko et al. 2014,Spain,Case-control,34,33,12-58,"GDF-15, FGF-21",Moderate risk
+Suomalainen et al. 2011,Finland,Case-control,39,39,21-67,GDF-15,Low risk
+Yatsuga et al. 2015,Japan,Case-control,41,41,19-71,"GDF-15, FGF-21",Low risk
+Morovat et al. 2017,UK,Case-control,38,33,15-68,GDF-15,Moderate risk
+Craven et al. 2017,UK,Case-control,32,31,20-64,GDF-15,Low risk
+El Guessabi et al. 2024,Morocco,Meta-analysis,1064,Various,Various,Lactate stress test,Low risk
